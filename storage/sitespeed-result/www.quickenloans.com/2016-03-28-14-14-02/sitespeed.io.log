@@ -1,0 +1,443 @@
+2016-03-28T18:14:02.372Z - info: [sitespeed] OS: 'darwin 14.5.0', Node.js: 'v5.8.0', sitespeed.io: '3.11.5', PhantomJS: '2.1.1', java: '1.8.0_45', browsertime: '0.12.2'
+2016-03-28T18:14:02.401Z - info: [sitespeed] Will crawl from start point http://www.quickenloans.com with crawl depth 1
+2016-03-28T18:14:03.798Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:03 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188842; path=/". Negative max-age attribute: -1459188842
+
+2016-03-28T18:14:03.847Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:03 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188842; path=/". Negative max-age attribute: -1459188842
+
+2016-03-28T18:14:04.044Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:04 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188842; path=/". Negative max-age attribute: -1459188842
+
+2016-03-28T18:14:04.184Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:04 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188843; path=/". Negative max-age attribute: -1459188843
+
+2016-03-28T18:14:04.431Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:04 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188843; path=/". Negative max-age attribute: -1459188843
+
+2016-03-28T18:14:04.569Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:04 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188843; path=/". Negative max-age attribute: -1459188843
+
+2016-03-28T18:14:04.578Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:04 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188843; path=/". Negative max-age attribute: -1459188843
+
+2016-03-28T18:14:04.767Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:04 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188843; path=/". Negative max-age attribute: -1459188843
+
+2016-03-28T18:14:04.902Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:04 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188843; path=/". Negative max-age attribute: -1459188843
+
+2016-03-28T18:14:05.089Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:05 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188844; path=/". Negative max-age attribute: -1459188844
+
+2016-03-28T18:14:05.286Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:05 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188844; path=/". Negative max-age attribute: -1459188844
+
+2016-03-28T18:14:05.383Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:05 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188844; path=/". Negative max-age attribute: -1459188844
+
+2016-03-28T18:14:05.617Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:05 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188844; path=/". Negative max-age attribute: -1459188844
+
+2016-03-28T18:14:05.942Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:05 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188844; path=/". Negative max-age attribute: -1459188844
+
+2016-03-28T18:14:06.048Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188845; path=/". Negative max-age attribute: -1459188845
+
+2016-03-28T18:14:06.199Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188845; path=/". Negative max-age attribute: -1459188845
+
+2016-03-28T18:14:06.204Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188845; path=/". Negative max-age attribute: -1459188845
+
+2016-03-28T18:14:06.259Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188845; path=/". Negative max-age attribute: -1459188845
+
+2016-03-28T18:14:06.286Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188845; path=/". Negative max-age attribute: -1459188845
+
+2016-03-28T18:14:06.371Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188845; path=/". Negative max-age attribute: -1459188845
+
+2016-03-28T18:14:06.515Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188845; path=/". Negative max-age attribute: -1459188845
+
+2016-03-28T18:14:06.663Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188845; path=/". Negative max-age attribute: -1459188845
+
+2016-03-28T18:14:06.699Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188845; path=/". Negative max-age attribute: -1459188845
+
+2016-03-28T18:14:06.703Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188845; path=/". Negative max-age attribute: -1459188845
+
+2016-03-28T18:14:06.816Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188845; path=/". Negative max-age attribute: -1459188845
+
+2016-03-28T18:14:06.888Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188845; path=/". Negative max-age attribute: -1459188845
+
+2016-03-28T18:14:07.194Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188846; path=/". Negative max-age attribute: -1459188846
+
+2016-03-28T18:14:07.221Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188846; path=/". Negative max-age attribute: -1459188846
+
+2016-03-28T18:14:07.226Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188846; path=/". Negative max-age attribute: -1459188846
+
+2016-03-28T18:14:07.234Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188846; path=/". Negative max-age attribute: -1459188846
+
+2016-03-28T18:14:07.306Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188846; path=/". Negative max-age attribute: -1459188846
+
+2016-03-28T18:14:07.391Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188846; path=/". Negative max-age attribute: -1459188846
+
+2016-03-28T18:14:07.455Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188846; path=/". Negative max-age attribute: -1459188846
+
+2016-03-28T18:14:07.533Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188846; path=/". Negative max-age attribute: -1459188846
+
+2016-03-28T18:14:07.563Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188846; path=/". Negative max-age attribute: -1459188846
+
+2016-03-28T18:14:07.579Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188846; path=/". Negative max-age attribute: -1459188846
+
+2016-03-28T18:14:07.710Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188846; path=/". Negative max-age attribute: -1459188846
+
+2016-03-28T18:14:07.747Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188846; path=/". Negative max-age attribute: -1459188846
+
+2016-03-28T18:14:07.772Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188846; path=/". Negative max-age attribute: -1459188846
+
+2016-03-28T18:14:07.856Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188846; path=/". Negative max-age attribute: -1459188846
+
+2016-03-28T18:14:08.069Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:08 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188847; path=/". Negative max-age attribute: -1459188847
+
+2016-03-28T18:14:08.234Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:08 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188846; path=/". Negative max-age attribute: -1459188846
+
+2016-03-28T18:14:08.236Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:08 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188846; path=/". Negative max-age attribute: -1459188846
+
+2016-03-28T18:14:08.236Z - error: [sitespeed] Error from the crawl: Mar 28, 2016 2:14:08 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459188847; path=/". Negative max-age attribute: -1459188847
+
+2016-03-28T18:14:08.332Z - info: [sitespeed] Will analyze 56 pages
+2016-03-28T18:14:08.334Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com [phantomjs]
+2016-03-28T18:14:08.338Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/home-loans/30-year-fixed [phantomjs]
+2016-03-28T18:14:08.340Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/about/legal/contact-options [phantomjs]
+2016-03-28T18:14:08.341Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/blog/category/home-family [phantomjs]
+2016-03-28T18:14:08.343Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/home-buying/home-buying [phantomjs]
+2016-03-28T18:14:24.488Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/about/contact [phantomjs]
+2016-03-28T18:14:30.107Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/press-room/ [phantomjs]
+2016-03-28T18:14:30.393Z - info: [sitespeed] Running YSlow for https://www.quickenloans.com/mortgage-application/four-steps [phantomjs]
+2016-03-28T18:14:30.777Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/home-buying/relocation-services [phantomjs]
+2016-03-28T18:14:39.953Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/blog/sweepstakes-and-promotions [phantomjs]
+2016-03-28T18:14:42.290Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/refinance/pay-off-your-mortgage-faster [phantomjs]
+2016-03-28T18:14:52.836Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/refinance/consolidate-debt [phantomjs]
+2016-03-28T18:14:57.349Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/about/legal/disclosures-licenses [phantomjs]
+2016-03-28T18:15:02.682Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/mortgage-rates [phantomjs]
+2016-03-28T18:15:10.867Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/blog/category/mortgage-news [phantomjs]
+2016-03-28T18:15:12.604Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/about/legal/email-policy [phantomjs]
+2016-03-28T18:15:22.684Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/refinance/refinance-rates [phantomjs]
+2016-03-28T18:15:22.691Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/refinance [phantomjs]
+2016-03-28T18:15:26.088Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/home-buying/second-home-mortgage [phantomjs]
+2016-03-28T18:15:39.241Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/blog/rocket-mortgage-blasting-your-mortgage-into-the-21st-century [phantomjs]
+2016-03-28T18:15:41.204Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/blog/ [phantomjs]
+2016-03-28T18:15:41.935Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/mortgage-calculator/mortgage-amortization-calculator [phantomjs]
+2016-03-28T18:15:43.023Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/subscribe [phantomjs]
+2016-03-28T18:15:56.198Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/blog/rocket-mortgage-the-mortgage-industrys-online-revolution [phantomjs]
+2016-03-28T18:16:00.954Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/home-loans/va-loan [phantomjs]
+2016-03-28T18:16:19.212Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/about/legal/terms-of-use [phantomjs]
+2016-03-28T18:16:19.230Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/refinance/investment-property [phantomjs]
+2016-03-28T18:16:20.152Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/home-buying/contact [phantomjs]
+2016-03-28T18:16:25.658Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/refinance/cash-out-refinance [phantomjs]
+2016-03-28T18:16:28.771Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/home-loans/15-year-fixed [phantomjs]
+2016-03-28T18:16:35.372Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/about/partner-company [phantomjs]
+2016-03-28T18:16:37.236Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/blog/category/personal-finance [phantomjs]
+2016-03-28T18:16:38.175Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/about/quicken-loans-deposit [phantomjs]
+2016-03-28T18:16:47.115Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/home-loans/adjustable-rate-mortgage [phantomjs]
+2016-03-28T18:16:49.207Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/about/legal/security-privacy [phantomjs]
+2016-03-28T18:16:56.192Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/home-buying/investment-property-loan [phantomjs]
+2016-03-28T18:17:05.074Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/blog/category/market-insights [phantomjs]
+2016-03-28T18:17:05.079Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/home-buying [phantomjs]
+2016-03-28T18:17:09.471Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/home-loans/jumbo-mortgage [phantomjs]
+2016-03-28T18:17:13.738Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/about/appraisal-process [phantomjs]
+2016-03-28T18:17:18.090Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/mortgage-calculator [phantomjs]
+2016-03-28T18:17:23.204Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/home-loans [phantomjs]
+2016-03-28T18:17:28.102Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/home-loans/custom-mortgage-yourgage [phantomjs]
+2016-03-28T18:17:35.020Z - info: [sitespeed] Running YSlow for https://www.quickenloans.com/my-mortgage/calculator [phantomjs]
+2016-03-28T18:17:35.100Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/about/legal/mortgage-partners [phantomjs]
+2016-03-28T18:17:36.030Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/about/legal/affiliate-privacy [phantomjs]
+2016-03-28T18:17:40.292Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/about [phantomjs]
+2016-03-28T18:17:48.245Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/about/affiliate-program [phantomjs]
+2016-03-28T18:17:51.836Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/about/legal [phantomjs]
+2016-03-28T18:17:51.849Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/home-loans/fha-loan [phantomjs]
+2016-03-28T18:17:55.332Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/about/amazing-mortgage-process [phantomjs]
+2016-03-28T18:17:58.439Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/refinance/lower-payment [phantomjs]
+2016-03-28T18:18:06.124Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/refinance/contact [phantomjs]
+2016-03-28T18:18:10.649Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/home-buying/first-mortgage [phantomjs]
+2016-03-28T18:18:14.884Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/blog/rocket-mortgage-your-questions-answered [phantomjs]
+2016-03-28T18:18:17.672Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/harp-program [phantomjs]
+2016-03-28T18:18:43.795Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:18:43.802Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/home-loans/30-year-fixed pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:18:43.803Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/about/legal/contact-options pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:18:43.804Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/blog/category/home-family pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:18:43.804Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/home-buying/home-buying pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:19:27.269Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/about/contact pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:19:28.392Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/press-room/ pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:19:38.380Z - info: [sitespeed] Running WebPageTest https://www.quickenloans.com/mortgage-application/four-steps pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:19:38.573Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/home-buying/relocation-services pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:19:48.629Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/blog/sweepstakes-and-promotions pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:20:10.041Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/refinance/pay-off-your-mortgage-faster pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:20:31.623Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/refinance/consolidate-debt pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:20:32.518Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/about/legal/disclosures-licenses pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:20:43.738Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/mortgage-rates pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:20:53.080Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/blog/category/mortgage-news pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:21:24.100Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/about/legal/email-policy pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:21:25.586Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/refinance/refinance-rates pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:21:35.000Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/refinance pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:21:37.571Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/home-buying/second-home-mortgage pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:22:06.894Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/blog/rocket-mortgage-blasting-your-mortgage-into-the-21st-century pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:22:08.245Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/blog/ pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:22:09.915Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/mortgage-calculator/mortgage-amortization-calculator pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:22:17.856Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/subscribe pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:22:20.289Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/blog/rocket-mortgage-the-mortgage-industrys-online-revolution pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:22:53.001Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/home-loans/va-loan pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:01.469Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/about/legal/terms-of-use pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:02.559Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/refinance/investment-property pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:02.977Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/home-buying/contact pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:14.285Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/refinance/cash-out-refinance pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:35.842Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/home-loans/15-year-fixed pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:44.481Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/about/partner-company pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:46.020Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/blog/category/personal-finance pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:46.065Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/about/quicken-loans-deposit pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:58.035Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/home-loans/adjustable-rate-mortgage pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:58.153Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/home-loans/adjustable-rate-mortgage{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:58.154Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:58.154Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/about/legal/security-privacy pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:58.249Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/about/legal/security-privacy{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:58.250Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:58.250Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/home-buying/investment-property-loan pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:58.340Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/home-buying/investment-property-loan{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:58.341Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:58.341Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/blog/category/market-insights pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:58.501Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/blog/category/market-insights{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:58.501Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:58.501Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/home-buying pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:58.586Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/home-buying{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:58.586Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:58.586Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/home-loans/jumbo-mortgage pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:58.668Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/home-loans/jumbo-mortgage{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:58.668Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:58.668Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/about/appraisal-process pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:58.765Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/about/appraisal-process{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:58.765Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:58.765Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/mortgage-calculator pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:58.850Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/mortgage-calculator{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:58.850Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:58.850Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/home-loans pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:59.025Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/home-loans{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.025Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.026Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/home-loans/custom-mortgage-yourgage pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:59.107Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/home-loans/custom-mortgage-yourgage{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.107Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.108Z - info: [sitespeed] Running WebPageTest https://www.quickenloans.com/my-mortgage/calculator pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:59.190Z - error: [sitespeed] WebPageTest couldn't fetch info for url https://www.quickenloans.com/my-mortgage/calculator{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.190Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.190Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/about/legal/mortgage-partners pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:59.289Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/about/legal/mortgage-partners{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.289Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.290Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/about/legal/affiliate-privacy pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:59.380Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/about/legal/affiliate-privacy{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.380Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.380Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/about pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:59.548Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/about{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.548Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.548Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/about/affiliate-program pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:59.635Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/about/affiliate-program{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.635Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.635Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/about/legal pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:59.726Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/about/legal{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.726Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.727Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/home-loans/fha-loan pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:59.810Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/home-loans/fha-loan{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.810Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.810Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/about/amazing-mortgage-process pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:23:59.891Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/about/amazing-mortgage-process{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.891Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:23:59.891Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/refinance/lower-payment pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:24:00.011Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/refinance/lower-payment{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:24:00.011Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:24:00.012Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/refinance/contact pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:24:00.090Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/refinance/contact{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:24:00.091Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:24:00.091Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/home-buying/first-mortgage pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:24:00.170Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/home-buying/first-mortgage{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:24:00.170Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:24:00.170Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/blog/rocket-mortgage-your-questions-answered pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:24:00.247Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/blog/rocket-mortgage-your-questions-answered{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:24:00.247Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:24:00.247Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/harp-program pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T18:24:00.334Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/harp-program{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:24:00.335Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T18:24:49.483Z - info: [sitespeed] Done analyzing urls
+2016-03-28T18:24:50.624Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=921615429351-073195063320&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewHeader&SV%21impression-query-room=chat-QuickenLoans-NewHeader&id=1268923586&info=button-impression%3Achat-QuickenLoans-NewHeader%28Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189352668&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.624Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=786020072620-866806506769&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewFooter&SV%21impression-query-room=chat-QuickenLoans-NewFooter&id=1268923586&info=button-impression%3Achat-QuickenLoans-NewFooter%28Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189352686&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.624Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&visitor=1117501196251595&msessionkey=3878136753373101215&siteContainer=STANDALONE&site=72231830&cmd=mTagStartPage&lpCallId=591808330416-239093317993&protV=20&lpjson=1&page=http%3A//www.quickenloans.com/subscribe&id=1268923586&javaSupport=false&visitorStatus=INSITE_STATUS&activePlugin=none&cobrowse=true&PV%21unit=QuickenLoans&PV%21lpTagVer=1.5.1&PV%21visitorActive=1&SV%21language=english&SV%21HideSurvey=null&SV%21PartnerCode=ENL_elcspurc.120907l2p1&SV%21lp_device_detection_is_mobile_device=false&SV%21lp_device_user_agent=Mozilla/5.0%20%28Windows%20NT%206.1%3B%20WOW64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/49.0.2623.87%20Safar&title=Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans
+2016-03-28T18:24:50.627Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=856611414417-593165959574&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewHeader&SV%21impression-query-room=chat-QuickenLoans-NewHeader&id=8220442108&info=button-impression%3Achat-QuickenLoans-NewHeader%28Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189371247&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.627Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=643191049690-267702931764&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewFooter&SV%21impression-query-room=chat-QuickenLoans-NewFooter&id=8220442108&info=button-impression%3Achat-QuickenLoans-NewFooter%28Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189371261&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.627Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&visitor=1117501196251595&msessionkey=5172331648424983557&siteContainer=STANDALONE&site=72231830&cmd=mTagStartPage&lpCallId=786252775976-980474025257&protV=20&lpjson=1&page=http%3A//www.quickenloans.com/subscribe&id=8220442108&javaSupport=false&visitorStatus=INSITE_STATUS&activePlugin=none&cobrowse=true&PV%21unit=QuickenLoans&PV%21lpTagVer=1.5.1&PV%21visitorActive=1&SV%21language=english&SV%21HideSurvey=null&SV%21PartnerCode=ENL_elcspurc.120907l2p1&SV%21lp_device_detection_is_mobile_device=false&SV%21lp_device_user_agent=Mozilla/5.0%20%28Windows%20NT%206.1%3B%20WOW64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/49.0.2623.87%20Safar&title=Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans
+2016-03-28T18:24:50.630Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=474256772956-277205703902&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewHeader&SV%21impression-query-room=chat-QuickenLoans-NewHeader&id=827147617&info=button-impression%3Achat-QuickenLoans-NewHeader%28Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189343744&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.630Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=554089006293-337338104170&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewFooter&SV%21impression-query-room=chat-QuickenLoans-NewFooter&id=827147617&info=button-impression%3Achat-QuickenLoans-NewFooter%28Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189343771&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.630Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&visitor=1117501196251533&msessionkey=7719686903654622978&siteContainer=STANDALONE&site=72231830&cmd=mTagStartPage&lpCallId=166316431290-666640163420&protV=20&lpjson=1&page=http%3A//www.quickenloans.com/subscribe&id=827147617&javaSupport=false&visitorStatus=INSITE_STATUS&activePlugin=none&cobrowse=true&PV%21unit=QuickenLoans&PV%21lpTagVer=1.5.1&PV%21visitorActive=1&SV%21language=english&SV%21HideSurvey=null&SV%21PartnerCode=ENL_elcspurc.120907l2p1&SV%21lp_device_detection_is_mobile_device=false&SV%21lp_device_user_agent=Mozilla/5.0%20%28Windows%20NT%206.1%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/49.0.2623.87%20Safari/537.3&title=Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans
+2016-03-28T18:24:50.634Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=902401807885-664216471759&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewHeader&SV%21impression-query-room=chat-QuickenLoans-NewHeader&id=5857004744&info=button-impression%3Achat-QuickenLoans-NewHeader%28Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189360162&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.634Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=756896741188-033381441384&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewFooter&SV%21impression-query-room=chat-QuickenLoans-NewFooter&id=5857004744&info=button-impression%3Achat-QuickenLoans-NewFooter%28Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189360169&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.634Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&visitor=1117501196251533&msessionkey=8452608521399147311&siteContainer=STANDALONE&site=72231830&cmd=mTagStartPage&lpCallId=925168458847-794265931911&protV=20&lpjson=1&page=http%3A//www.quickenloans.com/subscribe&id=5857004744&javaSupport=false&visitorStatus=INSITE_STATUS&activePlugin=none&cobrowse=true&PV%21unit=QuickenLoans&PV%21lpTagVer=1.5.1&PV%21visitorActive=1&SV%21language=english&SV%21HideSurvey=null&SV%21PartnerCode=ENL_elcspurc.120907l2p1&SV%21lp_device_detection_is_mobile_device=false&SV%21lp_device_user_agent=Mozilla/5.0%20%28Windows%20NT%206.1%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/49.0.2623.87%20Safari/537.3&title=Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans
+2016-03-28T18:24:50.637Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=246723616981-041426170216&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewHeader&SV%21impression-query-room=chat-QuickenLoans-NewHeader&id=9149910403&info=button-impression%3Achat-QuickenLoans-NewHeader%28Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189360818&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.637Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=255767048404-743972128989&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewFooter&SV%21impression-query-room=chat-QuickenLoans-NewFooter&id=9149910403&info=button-impression%3Achat-QuickenLoans-NewFooter%28Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189360836&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.637Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&visitor=1117501196251576&msessionkey=1914981547716160230&siteContainer=STANDALONE&site=72231830&cmd=mTagStartPage&lpCallId=215219299547-489255424925&protV=20&lpjson=1&page=http%3A//www.quickenloans.com/subscribe&id=9149910403&javaSupport=false&visitorStatus=INSITE_STATUS&activePlugin=none&cobrowse=true&PV%21unit=QuickenLoans&PV%21lpTagVer=1.5.1&PV%21visitorActive=1&SV%21language=english&SV%21HideSurvey=null&SV%21PartnerCode=ENL_elcspurc.120907l2p1&SV%21lp_device_detection_is_mobile_device=false&SV%21lp_device_user_agent=Mozilla/5.0%20%28Windows%20NT%206.1%3B%20WOW64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/49.0.2623.87%20Safar&title=Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans
+2016-03-28T18:24:50.640Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=963235032211-298324996031&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewHeader&SV%21impression-query-room=chat-QuickenLoans-NewHeader&id=8684721835&info=button-impression%3Achat-QuickenLoans-NewHeader%28Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189378119&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.640Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=070662494869-148228819632&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewFooter&SV%21impression-query-room=chat-QuickenLoans-NewFooter&id=8684721835&info=button-impression%3Achat-QuickenLoans-NewFooter%28Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189378145&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.641Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&visitor=1117501196251576&msessionkey=6473879490874003827&siteContainer=STANDALONE&site=72231830&cmd=mTagStartPage&lpCallId=694865345189-984453358061&protV=20&lpjson=1&page=http%3A//www.quickenloans.com/subscribe&id=8684721835&javaSupport=false&visitorStatus=INSITE_STATUS&activePlugin=none&cobrowse=true&PV%21unit=QuickenLoans&PV%21lpTagVer=1.5.1&PV%21visitorActive=1&SV%21language=english&SV%21HideSurvey=null&SV%21PartnerCode=ENL_elcspurc.120907l2p1&SV%21lp_device_detection_is_mobile_device=false&SV%21lp_device_user_agent=Mozilla/5.0%20%28Windows%20NT%206.1%3B%20WOW64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/49.0.2623.87%20Safar&title=Let%u2019s%20Stay%20in%20Touch%20%7C%20Rate%20Alerts%20%26%20Updates%20%7C%20Quicken%20Loans
+2016-03-28T18:24:50.704Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=138919446211-246064272800&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewHeader&SV%21impression-query-room=chat-QuickenLoans-NewHeader&id=1340133277&info=button-impression%3Achat-QuickenLoans-NewHeader%28Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189565984&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.704Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=872417867259-498426720449&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewFooter&SV%21impression-query-room=chat-QuickenLoans-NewFooter&id=1340133277&info=button-impression%3Achat-QuickenLoans-NewFooter%28Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189565994&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.704Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&visitor=1117501196249967&msessionkey=2182970468257021471&siteContainer=STANDALONE&site=72231830&cmd=mTagStartPage&lpCallId=947410123105-012305686112&protV=20&lpjson=1&page=http%3A//www.quickenloans.com/mortgage-rates&id=1340133277&javaSupport=false&visitorStatus=INSITE_STATUS&activePlugin=none&cobrowse=true&PV%21unit=QuickenLoans&PV%21lpTagVer=1.5.1&PV%21visitorActive=1&SV%21language=english&SV%21HideSurvey=null&SV%21PartnerCode=QMM_12345678.0123456789&SV%21lp_device_detection_is_mobile_device=false&SV%21lp_device_user_agent=Mozilla/5.0%20%28Windows%20NT%206.1%3B%20WOW64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/49.0.2623.87%20Safar&title=Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans
+2016-03-28T18:24:50.708Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=088052434078-026506397246&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewHeader&SV%21impression-query-room=chat-QuickenLoans-NewHeader&id=3470827590&info=button-impression%3Achat-QuickenLoans-NewHeader%28Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189589291&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.709Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=154935848748-711321106284&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewFooter&SV%21impression-query-room=chat-QuickenLoans-NewFooter&id=3470827590&info=button-impression%3Achat-QuickenLoans-NewFooter%28Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189589302&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.709Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&visitor=1117501196249967&msessionkey=6686544328442742376&siteContainer=STANDALONE&site=72231830&cmd=mTagStartPage&lpCallId=299473574243-295956571129&protV=20&lpjson=1&page=http%3A//www.quickenloans.com/mortgage-rates&id=3470827590&javaSupport=false&visitorStatus=INSITE_STATUS&activePlugin=none&cobrowse=true&PV%21unit=QuickenLoans&PV%21lpTagVer=1.5.1&PV%21visitorActive=1&SV%21language=english&SV%21HideSurvey=null&SV%21PartnerCode=QMM_12345678.0123456789&SV%21lp_device_detection_is_mobile_device=false&SV%21lp_device_user_agent=Mozilla/5.0%20%28Windows%20NT%206.1%3B%20WOW64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/49.0.2623.87%20Safar&title=Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans
+2016-03-28T18:24:50.713Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=363783069042-854312075254&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewHeader&SV%21impression-query-room=chat-QuickenLoans-NewHeader&id=2383921977&info=button-impression%3Achat-QuickenLoans-NewHeader%28Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189566736&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.713Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=802502139008-888558569714&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewFooter&SV%21impression-query-room=chat-QuickenLoans-NewFooter&id=2383921977&info=button-impression%3Achat-QuickenLoans-NewFooter%28Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189566767&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.714Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&visitor=1117501196249979&msessionkey=3554889420555727546&siteContainer=STANDALONE&site=72231830&cmd=mTagStartPage&lpCallId=156173546708-818438274432&protV=20&lpjson=1&page=http%3A//www.quickenloans.com/mortgage-rates&id=2383921977&javaSupport=false&visitorStatus=INSITE_STATUS&activePlugin=none&cobrowse=true&PV%21unit=QuickenLoans&PV%21lpTagVer=1.5.1&PV%21visitorActive=1&SV%21language=english&SV%21HideSurvey=null&SV%21PartnerCode=QMM_12345678.0123456789&SV%21lp_device_detection_is_mobile_device=false&SV%21lp_device_user_agent=Mozilla/5.0%20%28Windows%20NT%206.1%3B%20WOW64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/49.0.2623.87%20Safar&title=Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans
+2016-03-28T18:24:50.716Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=477375318066-253298823569&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewHeader&SV%21impression-query-room=chat-QuickenLoans-NewHeader&id=4238454703&info=button-impression%3Achat-QuickenLoans-NewHeader%28Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189583820&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.716Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=854824178923-668024913853&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewFooter&SV%21impression-query-room=chat-QuickenLoans-NewFooter&id=4238454703&info=button-impression%3Achat-QuickenLoans-NewFooter%28Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189583830&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.716Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&visitor=1117501196249979&msessionkey=9179693459096595844&siteContainer=STANDALONE&site=72231830&cmd=mTagStartPage&lpCallId=831983435265-736426864271&protV=20&lpjson=1&page=http%3A//www.quickenloans.com/mortgage-rates&id=4238454703&javaSupport=false&visitorStatus=INSITE_STATUS&activePlugin=none&cobrowse=true&PV%21unit=QuickenLoans&PV%21lpTagVer=1.5.1&PV%21visitorActive=1&SV%21language=english&SV%21HideSurvey=null&SV%21PartnerCode=QMM_12345678.0123456789&SV%21lp_device_detection_is_mobile_device=false&SV%21lp_device_user_agent=Mozilla/5.0%20%28Windows%20NT%206.1%3B%20WOW64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/49.0.2623.87%20Safar&title=Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans
+2016-03-28T18:24:50.720Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=464521743276-980292619638&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewHeader&SV%21impression-query-room=chat-QuickenLoans-NewHeader&id=1115082112&info=button-impression%3Achat-QuickenLoans-NewHeader%28Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189201488&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.720Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=401557940967-843640347236&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewFooter&SV%21impression-query-room=chat-QuickenLoans-NewFooter&id=1115082112&info=button-impression%3Achat-QuickenLoans-NewFooter%28Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189201499&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.720Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&visitor=1117501196249975&msessionkey=1840031066904790161&siteContainer=STANDALONE&site=72231830&cmd=mTagStartPage&lpCallId=3227209062-444141205826&protV=20&lpjson=1&page=http%3A//www.quickenloans.com/mortgage-rates&id=1115082112&javaSupport=false&visitorStatus=INSITE_STATUS&activePlugin=none&cobrowse=true&PV%21unit=QuickenLoans&PV%21lpTagVer=1.5.1&PV%21visitorActive=1&SV%21language=english&SV%21HideSurvey=null&SV%21PartnerCode=QMM_12345678.0123456789&SV%21lp_device_detection_is_mobile_device=false&SV%21lp_device_user_agent=Mozilla/5.0%20%28Windows%20NT%206.1%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/49.0.2623.108%20Safari/537.&title=Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans
+2016-03-28T18:24:50.723Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=62359555330-57326526050&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewHeader&SV%21impression-query-room=chat-QuickenLoans-NewHeader&id=3857296026&info=button-impression%3Achat-QuickenLoans-NewHeader%28Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189217195&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.724Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&site=72231830&cmd=mTagUrl&lpCallId=487713488425-481209022221&protV=20&lpjson=1&SV%21impression-query-name=chat-QuickenLoans-NewFooter&SV%21impression-query-room=chat-QuickenLoans-NewFooter&id=3857296026&info=button-impression%3Achat-QuickenLoans-NewFooter%28Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans%29&waitForVisitor=true&d=1459189217207&page=http%3A//sales.liveperson.net/hcp/width/img40.gif
+2016-03-28T18:24:50.724Z - info: [sitespeed] Couldn't decode URI:http://sales.liveperson.net/hc/72231830/?&visitor=1117501196249975&msessionkey=1445928257932115446&siteContainer=STANDALONE&site=72231830&cmd=mTagStartPage&lpCallId=990633787192-729256140118&protV=20&lpjson=1&page=http%3A//www.quickenloans.com/mortgage-rates&id=3857296026&javaSupport=false&visitorStatus=INSITE_STATUS&activePlugin=none&cobrowse=true&PV%21unit=QuickenLoans&PV%21lpTagVer=1.5.1&PV%21visitorActive=1&SV%21language=english&SV%21HideSurvey=null&SV%21PartnerCode=QMM_12345678.0123456789&SV%21lp_device_detection_is_mobile_device=false&SV%21lp_device_user_agent=Mozilla/5.0%20%28Windows%20NT%206.1%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/49.0.2623.108%20Safari/537.&title=Mortgage%20Rates%20%7C%20See%20Today%u2019s%20Current%20Rates%20%7C%20Quicken%20Loans
+2016-03-28T18:24:50.853Z - info: [sitespeed] Wrote file assets.html
+2016-03-28T18:24:50.854Z - info: [sitespeed] Wrote file pages.html
+2016-03-28T18:24:50.854Z - info: [sitespeed] Wrote file errors.html
+2016-03-28T18:24:50.854Z - info: [sitespeed] Wrote file domains.html
+2016-03-28T18:24:50.855Z - info: [sitespeed] Wrote file hotlist.html
+2016-03-28T18:24:50.855Z - info: [sitespeed] Wrote file rules.html
+2016-03-28T18:24:50.855Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2016-03-28T18:24:50.855Z - info: [sitespeed] Wrote file index.html
+2016-03-28T18:24:50.857Z - info: [sitespeed] Wrote file www_quickenloans_com-about-legal-contact-options.html
+2016-03-28T18:24:50.858Z - info: [sitespeed] Wrote file www_quickenloans_com-home-buying-home-buying.html
+2016-03-28T18:24:50.859Z - info: [sitespeed] Wrote file www_quickenloans_com-about-contact.html
+2016-03-28T18:24:50.859Z - info: [sitespeed] Wrote file www_quickenloans_com.html
+2016-03-28T18:24:50.859Z - info: [sitespeed] Wrote file www_quickenloans_com-blog-category-home-family.html
+2016-03-28T18:24:50.859Z - info: [sitespeed] Wrote file www_quickenloans_com-home-buying-relocation-services.html
+2016-03-28T18:24:50.859Z - info: [sitespeed] Wrote file www_quickenloans_com-refinance-pay-off-your-mortgage-faster.html
+2016-03-28T18:24:50.859Z - info: [sitespeed] Wrote file www_quickenloans_com-home-loans-30-year-fixed.html
+2016-03-28T18:24:50.859Z - info: [sitespeed] Wrote file www_quickenloans_com-about-legal-disclosures-licenses.html
+2016-03-28T18:24:50.859Z - info: [sitespeed] Wrote file s-www_quickenloans_com-mortgage-application-four-steps.html
+2016-03-28T18:24:50.859Z - info: [sitespeed] Wrote file www_quickenloans_com-refinance-consolidate-debt.html
+2016-03-28T18:24:50.860Z - info: [sitespeed] Wrote file www_quickenloans_com-about-legal-email-policy.html
+2016-03-28T18:24:50.861Z - info: [sitespeed] Wrote file www_quickenloans_com-blog-sweepstakes-and-promotions.html
+2016-03-28T18:24:50.861Z - info: [sitespeed] Wrote file www_quickenloans_com-mortgage-rates.html
+2016-03-28T18:24:50.861Z - info: [sitespeed] Wrote file www_quickenloans_com-refinance.html
+2016-03-28T18:24:50.861Z - info: [sitespeed] Wrote file www_quickenloans_com-refinance-refinance-rates.html
+2016-03-28T18:24:50.861Z - info: [sitespeed] Wrote file www_quickenloans_com-blog-category-mortgage-news.html
+2016-03-28T18:24:50.862Z - info: [sitespeed] Wrote file www_quickenloans_com-press-room-.html
+2016-03-28T18:24:50.862Z - info: [sitespeed] Wrote file www_quickenloans_com-home-buying-second-home-mortgage.html
+2016-03-28T18:24:50.862Z - info: [sitespeed] Wrote file www_quickenloans_com-subscribe.html
+2016-03-28T18:24:50.862Z - info: [sitespeed] Wrote file www_quickenloans_com-blog-rocket-mortgage-blasting-your-mortgage-into-the-21st-century.html
+2016-03-28T18:24:50.862Z - info: [sitespeed] Wrote file www_quickenloans_com-blog-.html
+2016-03-28T18:24:50.862Z - info: [sitespeed] Wrote file www_quickenloans_com-mortgage-calculator-mortgage-amortization-calculator.html
+2016-03-28T18:24:50.862Z - info: [sitespeed] Wrote file www_quickenloans_com-home-loans-va-loan.html
+2016-03-28T18:24:50.862Z - info: [sitespeed] Wrote file www_quickenloans_com-blog-rocket-mortgage-the-mortgage-industrys-online-revolution.html
+2016-03-28T18:24:50.862Z - info: [sitespeed] Wrote file www_quickenloans_com-about-legal-terms-of-use.html
+2016-03-28T18:24:50.862Z - info: [sitespeed] Wrote file www_quickenloans_com-refinance-investment-property.html
+2016-03-28T18:24:50.862Z - info: [sitespeed] Wrote file www_quickenloans_com-home-buying-contact.html
+2016-03-28T18:24:50.862Z - info: [sitespeed] Wrote file www_quickenloans_com-about-quicken-loans-deposit.html
+2016-03-28T18:24:50.863Z - info: [sitespeed] Wrote file www_quickenloans_com-about-legal-security-privacy.html
+2016-03-28T18:24:50.863Z - info: [sitespeed] Wrote file www_quickenloans_com-home-loans-adjustable-rate-mortgage.html
+2016-03-28T18:24:50.863Z - info: [sitespeed] Wrote file www_quickenloans_com-refinance-cash-out-refinance.html
+2016-03-28T18:24:50.863Z - info: [sitespeed] Wrote file www_quickenloans_com-home-buying.html
+2016-03-28T18:24:50.863Z - info: [sitespeed] Wrote file www_quickenloans_com-home-buying-investment-property-loan.html
+2016-03-28T18:24:50.863Z - info: [sitespeed] Wrote file www_quickenloans_com-home-loans-15-year-fixed.html
+2016-03-28T18:24:50.863Z - info: [sitespeed] Wrote file www_quickenloans_com-about-partner-company.html
+2016-03-28T18:24:50.863Z - info: [sitespeed] Wrote file www_quickenloans_com-home-loans-jumbo-mortgage.html
+2016-03-28T18:24:50.863Z - info: [sitespeed] Wrote file www_quickenloans_com-blog-category-personal-finance.html
+2016-03-28T18:24:50.863Z - info: [sitespeed] Wrote file www_quickenloans_com-mortgage-calculator.html
+2016-03-28T18:24:50.863Z - info: [sitespeed] Wrote file s-www_quickenloans_com-my-mortgage-calculator.html
+2016-03-28T18:24:50.863Z - info: [sitespeed] Wrote file www_quickenloans_com-about-appraisal-process.html
+2016-03-28T18:24:50.863Z - info: [sitespeed] Wrote file www_quickenloans_com-blog-category-market-insights.html
+2016-03-28T18:24:50.863Z - info: [sitespeed] Wrote file www_quickenloans_com-home-loans-custom-mortgage-yourgage.html
+2016-03-28T18:24:50.863Z - info: [sitespeed] Wrote file www_quickenloans_com-about-legal-mortgage-partners.html
+2016-03-28T18:24:50.864Z - info: [sitespeed] Wrote file www_quickenloans_com-home-loans.html
+2016-03-28T18:24:50.864Z - info: [sitespeed] Wrote file www_quickenloans_com-about.html
+2016-03-28T18:24:50.864Z - info: [sitespeed] Wrote file www_quickenloans_com-about-legal-affiliate-privacy.html
+2016-03-28T18:24:50.864Z - info: [sitespeed] Wrote file www_quickenloans_com-about-affiliate-program.html
+2016-03-28T18:24:50.864Z - info: [sitespeed] Wrote file www_quickenloans_com-about-legal.html
+2016-03-28T18:24:50.864Z - info: [sitespeed] Wrote file www_quickenloans_com-about-amazing-mortgage-process.html
+2016-03-28T18:24:50.864Z - info: [sitespeed] Wrote file www_quickenloans_com-refinance-lower-payment.html
+2016-03-28T18:24:50.865Z - info: [sitespeed] Wrote file www_quickenloans_com-harp-program.html
+2016-03-28T18:24:50.865Z - info: [sitespeed] Wrote file www_quickenloans_com-refinance-contact.html
+2016-03-28T18:24:50.865Z - info: [sitespeed] Wrote file www_quickenloans_com-home-buying-first-mortgage.html
+2016-03-28T18:24:50.865Z - info: [sitespeed] Wrote file www_quickenloans_com-blog-rocket-mortgage-your-questions-answered.html
+2016-03-28T18:24:50.865Z - info: [sitespeed] Wrote file www_quickenloans_com-home-loans-fha-loan.html
+2016-03-28T18:26:06.089Z - error: [sitespeed] Couldn't send data to Graphite:Error: connect ETIMEDOUT 10.22.97.76:2003 for host:localhost port:2003
+2016-03-28T18:26:06.090Z - info: [sitespeed] Wrote results to /opt/graphite/storage/sitespeed-result/www.quickenloans.com/2016-03-28-14-14-02
+2016-03-28T18:26:06.094Z - info: [sitespeed] The analyze took 12 minutes (723 seconds)

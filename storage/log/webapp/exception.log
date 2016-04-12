@@ -1,0 +1,26 @@
+Tue Mar 29 17:19:54 2016 :: Failed CarbonLink query 'wpt.http.www_quickenloans_com._mortgage-application_four-steps.pageWeight'
+Traceback (most recent call last):
+  File "/opt/graphite/webapp/graphite/render/datalib.py", line 385, in fetchData
+    cachedResults = CarbonLink.query(dbFile.real_metric)
+  File "/opt/graphite/webapp/graphite/render/datalib.py", line 146, in query
+    results = self.send_request(request)
+  File "/opt/graphite/webapp/graphite/render/datalib.py", line 207, in send_request
+    conn = self.get_connection(host)
+  File "/opt/graphite/webapp/graphite/render/datalib.py", line 134, in get_connection
+    connection.connect( (server, port) )
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 61] Connection refused
+Tue Mar 29 17:20:03 2016 :: Failed CarbonLink query 'wpt.http.www_quickenloans_com._mortgage-application_four-steps.pageWeight'
+Traceback (most recent call last):
+  File "/opt/graphite/webapp/graphite/render/datalib.py", line 385, in fetchData
+    cachedResults = CarbonLink.query(dbFile.real_metric)
+  File "/opt/graphite/webapp/graphite/render/datalib.py", line 146, in query
+    results = self.send_request(request)
+  File "/opt/graphite/webapp/graphite/render/datalib.py", line 207, in send_request
+    conn = self.get_connection(host)
+  File "/opt/graphite/webapp/graphite/render/datalib.py", line 134, in get_connection
+    connection.connect( (server, port) )
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 61] Connection refused

@@ -1,0 +1,20 @@
+Tue Apr 12 12:49:33 2016 :: [IndexSearcher] performing initial index load
+Tue Apr 12 12:49:33 2016 :: [IndexSearcher] reading index data from /opt/graphite/storage/index
+Tue Apr 12 12:49:33 2016 :: [IndexSearcher] index reload took 0.002413 seconds (15 entries)
+Tue Apr 12 12:49:33 2016 :: find_view query=* local_only=0 matches=8
+Tue Apr 12 12:59:38 2016 :: find_view query=stats.gauges.qltest1domComplete local_only=0 matches=1
+Tue Apr 12 12:59:50 2016 :: find_view query=stats.gauges.qltest1domComplete local_only=0 matches=1
+Tue Apr 12 13:00:12 2016 :: find_view query=* local_only=0 matches=8
+Tue Apr 12 13:00:13 2016 :: find_view query=stats local_only=0 matches=1
+Tue Apr 12 13:00:15 2016 :: find_view query=stats.* local_only=0 matches=5
+Tue Apr 12 13:00:16 2016 :: find_view query=stats.gauges local_only=0 matches=1
+Tue Apr 12 13:00:17 2016 :: find_view query=stats.gauges.* local_only=0 matches=277
+Tue Apr 12 13:01:51 2016 :: find_view query=stats.gauges.qltest1domComplete local_only=0 matches=1
+Tue Apr 12 15:28:22 2016 :: find_view query=* local_only=0 matches=8
+Tue Apr 12 15:28:23 2016 :: find_view query=stats local_only=0 matches=1
+Tue Apr 12 15:28:24 2016 :: find_view query=stats.* local_only=0 matches=5
+Tue Apr 12 15:28:25 2016 :: find_view query=stats.gauges local_only=0 matches=1
+Tue Apr 12 15:28:25 2016 :: find_view query=stats.gauges.* local_only=0 matches=277
+Tue Apr 12 15:28:39 2016 :: find_view query=stats.gauges.* local_only=0 matches=277
+Tue Apr 12 15:28:40 2016 :: find_view query=* local_only=0 matches=8
+Tue Apr 12 15:28:40 2016 :: find_view query=stats.* local_only=0 matches=5

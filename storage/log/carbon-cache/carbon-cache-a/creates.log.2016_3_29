@@ -1,0 +1,9 @@
+29/03/2016 14:33:30 :: new metric system.loadavg_15min matched schema default_1min_for_1day
+29/03/2016 14:33:30 :: new metric system.loadavg_15min matched aggregation schema default
+29/03/2016 14:33:30 :: creating database file /opt/graphite/storage/whisper/system/loadavg_15min.wsp (archive=[(60, 1440)] xff=None agg=None)
+29/03/2016 14:33:30 :: new metric system.loadavg_1min matched schema default_1min_for_1day
+29/03/2016 14:33:30 :: new metric system.loadavg_1min matched aggregation schema default
+29/03/2016 14:33:30 :: creating database file /opt/graphite/storage/whisper/system/loadavg_1min.wsp (archive=[(60, 1440)] xff=None agg=None)
+29/03/2016 14:33:30 :: new metric system.loadavg_5min matched schema default_1min_for_1day
+29/03/2016 14:33:30 :: new metric system.loadavg_5min matched aggregation schema default
+29/03/2016 14:33:30 :: creating database file /opt/graphite/storage/whisper/system/loadavg_5min.wsp (archive=[(60, 1440)] xff=None agg=None)

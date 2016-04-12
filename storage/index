@@ -1,0 +1,15 @@
+carbon.agents.epelkeymbp-a.avgUpdateTime
+carbon.agents.epelkeymbp-a.blacklistMatches
+carbon.agents.epelkeymbp-a.cache.bulk_queries
+carbon.agents.epelkeymbp-a.cache.overflow
+carbon.agents.epelkeymbp-a.cache.queries
+carbon.agents.epelkeymbp-a.cache.queues
+carbon.agents.epelkeymbp-a.cache.size
+carbon.agents.epelkeymbp-a.committedPoints
+carbon.agents.epelkeymbp-a.cpuUsage
+carbon.agents.epelkeymbp-a.creates
+carbon.agents.epelkeymbp-a.errors
+carbon.agents.epelkeymbp-a.metricsReceived
+carbon.agents.epelkeymbp-a.pointsPerUpdate
+carbon.agents.epelkeymbp-a.updateOperations
+carbon.agents.epelkeymbp-a.whitelistRejects

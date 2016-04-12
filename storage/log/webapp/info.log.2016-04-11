@@ -1,0 +1,31 @@
+Mon Apr 11 14:04:51 2016 :: [IndexSearcher] performing initial index load
+Mon Apr 11 14:04:51 2016 :: [IndexSearcher] reading index data from /opt/graphite/storage/index
+Mon Apr 11 14:04:51 2016 :: [IndexSearcher] index reload took 0.001772 seconds (15 entries)
+Mon Apr 11 14:04:51 2016 :: find_view query=* local_only=0 matches=8
+Mon Apr 11 14:04:53 2016 :: find_view query=stats local_only=0 matches=1
+Mon Apr 11 14:05:03 2016 :: find_view query=stats.* local_only=0 matches=5
+Mon Apr 11 14:05:08 2016 :: find_view query=stats.gauges local_only=0 matches=1
+Mon Apr 11 14:05:09 2016 :: find_view query=stats.gauges.* local_only=0 matches=277
+Mon Apr 11 14:05:36 2016 :: find_view query=stats.gauges.* local_only=0 matches=277
+Mon Apr 11 14:45:07 2016 :: find_view query=stats.gauges.qltest1domComplete local_only=0 matches=1
+Mon Apr 11 15:27:29 2016 :: find_view query=stats.gauges.qltest1domComplete local_only=0 matches=1
+Mon Apr 11 15:30:31 2016 :: find_view query=stats.gauges.qltest1domComplete local_only=0 matches=1
+Mon Apr 11 15:31:08 2016 :: find_view query=stats.gauges.qltest1domComplete local_only=0 matches=1
+Mon Apr 11 15:36:02 2016 :: find_view query=* local_only=0 matches=8
+Mon Apr 11 15:36:03 2016 :: find_view query=stats local_only=0 matches=1
+Mon Apr 11 15:36:04 2016 :: find_view query=stats.* local_only=0 matches=5
+Mon Apr 11 15:36:05 2016 :: find_view query=stats.gauges local_only=0 matches=1
+Mon Apr 11 15:36:06 2016 :: find_view query=stats.gauges.* local_only=0 matches=277
+Mon Apr 11 15:37:04 2016 :: find_view query=stats.gauges.qltest1domComplete local_only=0 matches=1
+Mon Apr 11 15:38:29 2016 :: find_view query=stats.gauges.qltest1domComplete local_only=0 matches=1
+Mon Apr 11 15:38:48 2016 :: find_view query=stats.gauges.qltest1domComplete local_only=0 matches=1
+Mon Apr 11 15:38:58 2016 :: find_view query=stats.gauges.qltest1domComplete local_only=0 matches=1
+Mon Apr 11 15:39:45 2016 :: find_view query=* local_only=0 matches=8
+Mon Apr 11 15:39:46 2016 :: find_view query=stats local_only=0 matches=1
+Mon Apr 11 15:39:47 2016 :: find_view query=stats.* local_only=0 matches=5
+Mon Apr 11 15:39:48 2016 :: find_view query=stats.gauges local_only=0 matches=1
+Mon Apr 11 15:39:49 2016 :: find_view query=stats.gauges.* local_only=0 matches=277
+Mon Apr 11 15:40:08 2016 :: find_view query=stats.gauges.qltest1domComplete local_only=0 matches=1
+Mon Apr 11 15:40:21 2016 :: find_view query=stats.gauges.qltest1domComplete local_only=0 matches=1
+Mon Apr 11 15:45:51 2016 :: find_view query=stats.gauges.qltest1domComplete local_only=0 matches=1
+Mon Apr 11 16:15:07 2016 :: find_view query=stats.gauges.qltest1domComplete local_only=0 matches=1

@@ -1,0 +1,1095 @@
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.whitelistRejects matched schema carbon
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.whitelistRejects matched aggregation schema default
+28/03/2016 13:51:17 :: creating database file /opt/graphite/storage/whisper/carbon/agents/epelkeymbp-a/whitelistRejects.wsp (archive=[(60, 129600)] xff=None agg=None)
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.cache.queues matched schema carbon
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.cache.queues matched aggregation schema default
+28/03/2016 13:51:17 :: creating database file /opt/graphite/storage/whisper/carbon/agents/epelkeymbp-a/cache/queues.wsp (archive=[(60, 129600)] xff=None agg=None)
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.updateOperations matched schema carbon
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.updateOperations matched aggregation schema default
+28/03/2016 13:51:17 :: creating database file /opt/graphite/storage/whisper/carbon/agents/epelkeymbp-a/updateOperations.wsp (archive=[(60, 129600)] xff=None agg=None)
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.creates matched schema carbon
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.creates matched aggregation schema default
+28/03/2016 13:51:17 :: creating database file /opt/graphite/storage/whisper/carbon/agents/epelkeymbp-a/creates.wsp (archive=[(60, 129600)] xff=None agg=None)
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.blacklistMatches matched schema carbon
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.blacklistMatches matched aggregation schema default
+28/03/2016 13:51:17 :: creating database file /opt/graphite/storage/whisper/carbon/agents/epelkeymbp-a/blacklistMatches.wsp (archive=[(60, 129600)] xff=None agg=None)
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.cache.bulk_queries matched schema carbon
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.cache.bulk_queries matched aggregation schema default
+28/03/2016 13:51:17 :: creating database file /opt/graphite/storage/whisper/carbon/agents/epelkeymbp-a/cache/bulk_queries.wsp (archive=[(60, 129600)] xff=None agg=None)
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.metricsReceived matched schema carbon
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.metricsReceived matched aggregation schema default
+28/03/2016 13:51:17 :: creating database file /opt/graphite/storage/whisper/carbon/agents/epelkeymbp-a/metricsReceived.wsp (archive=[(60, 129600)] xff=None agg=None)
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.cache.overflow matched schema carbon
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.cache.overflow matched aggregation schema default
+28/03/2016 13:51:17 :: creating database file /opt/graphite/storage/whisper/carbon/agents/epelkeymbp-a/cache/overflow.wsp (archive=[(60, 129600)] xff=None agg=None)
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.errors matched schema carbon
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.errors matched aggregation schema default
+28/03/2016 13:51:17 :: creating database file /opt/graphite/storage/whisper/carbon/agents/epelkeymbp-a/errors.wsp (archive=[(60, 129600)] xff=None agg=None)
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.cache.queries matched schema carbon
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.cache.queries matched aggregation schema default
+28/03/2016 13:51:17 :: creating database file /opt/graphite/storage/whisper/carbon/agents/epelkeymbp-a/cache/queries.wsp (archive=[(60, 129600)] xff=None agg=None)
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.cpuUsage matched schema carbon
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.cpuUsage matched aggregation schema default
+28/03/2016 13:51:17 :: creating database file /opt/graphite/storage/whisper/carbon/agents/epelkeymbp-a/cpuUsage.wsp (archive=[(60, 129600)] xff=None agg=None)
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.cache.size matched schema carbon
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.cache.size matched aggregation schema default
+28/03/2016 13:51:17 :: creating database file /opt/graphite/storage/whisper/carbon/agents/epelkeymbp-a/cache/size.wsp (archive=[(60, 129600)] xff=None agg=None)
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.committedPoints matched schema carbon
+28/03/2016 13:51:17 :: new metric carbon.agents.epelkeymbp-a.committedPoints matched aggregation schema default
+28/03/2016 13:51:17 :: creating database file /opt/graphite/storage/whisper/carbon/agents/epelkeymbp-a/committedPoints.wsp (archive=[(60, 129600)] xff=None agg=None)
+28/03/2016 13:52:18 :: new metric carbon.agents.epelkeymbp-a.avgUpdateTime matched schema carbon
+28/03/2016 13:52:18 :: new metric carbon.agents.epelkeymbp-a.avgUpdateTime matched aggregation schema default
+28/03/2016 13:52:18 :: creating database file /opt/graphite/storage/whisper/carbon/agents/epelkeymbp-a/avgUpdateTime.wsp (archive=[(60, 129600)] xff=None agg=None)
+28/03/2016 13:52:18 :: new metric carbon.agents.epelkeymbp-a.pointsPerUpdate matched schema carbon
+28/03/2016 13:52:18 :: new metric carbon.agents.epelkeymbp-a.pointsPerUpdate matched aggregation schema default
+28/03/2016 13:52:18 :: creating database file /opt/graphite/storage/whisper/carbon/agents/epelkeymbp-a/pointsPerUpdate.wsp (archive=[(60, 129600)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.rules.yetags matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.rules.yetags matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/http/www_quickenloans_com/_mortgage-application_four-steps/rules/yetags.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.rules.yexpressions matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.rules.yexpressions matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/http/www_quickenloans_com/_mortgage-application_four-steps/rules/yexpressions.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.timeSinceLastMod.median matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.timeSinceLastMod.median matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/timeSinceLastMod/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.rule.noDuplicates.min matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.rule.noDuplicates.min matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/rule/noDuplicates/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.requests.mean matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.requests.mean matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/requests/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.singleDomainRequests.mean matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.singleDomainRequests.mean matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/singleDomainRequests/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.mean matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.mean matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/maxRequestsPerHost/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssPerPage.max matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssPerPage.max matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/cssPerPage/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.median matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.median matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/cssWeightPerPage/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssWeight.median matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssWeight.median matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/cssWeight/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.rule.criticalPathScore.median matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.rule.criticalPathScore.median matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/rule/criticalPathScore/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.rule.noDuplicates.median matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.rule.noDuplicates.median matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/rule/noDuplicates/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.assets.imageWeight matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.assets.imageWeight matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/http/www_quickenloans_com/_mortgage-application_four-steps/assets/imageWeight.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.imageWeight.max matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.imageWeight.max matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/imageWeight/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.imageWeight.p10 matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.imageWeight.p10 matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/imageWeight/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.pageWeight.min matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.pageWeight.min matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/pageWeight/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.jsSyncInHead.mean matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.jsSyncInHead.mean matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/jsSyncInHead/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.domElements.p10 matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.domElements.p10 matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/domElements/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.timeSinceLastMod.sum matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.timeSinceLastMod.sum matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/timeSinceLastMod/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.assets.flash matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.assets.flash matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/http/www_quickenloans_com/_mortgage-application_four-steps/assets/flash.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.requests.p99 matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.requests.p99 matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/requests/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.pageWeight.median matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.pageWeight.median matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/pageWeight/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.noRequests matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.noRequests matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/http/www_quickenloans_com/_mortgage-application_four-steps/noRequests.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.requests.p90 matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.requests.p90 matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/requests/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.mean matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.mean matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/requestsWithoutGzip/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.numberOfDomains.p99 matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.numberOfDomains.p99 matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/numberOfDomains/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.rule.pagesWithSPOF.min matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.rule.pagesWithSPOF.min matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/rule/pagesWithSPOF/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.rules.totalrequests matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.rules.totalrequests matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/http/www_quickenloans_com/_mortgage-application_four-steps/rules/totalrequests.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.p99 matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.p99 matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/requestsWithoutGzip/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.domElements.sum matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.domElements.sum matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/domElements/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.p90 matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.p90 matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/cssWeightPerPage/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.rules.avoidfont matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.rules.avoidfont matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/http/www_quickenloans_com/_mortgage-application_four-steps/rules/avoidfont.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.requests.min matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.requests.min matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/requests/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.p99 matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.p99 matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/cssWeightPerPage/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.sum matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.sum matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/requestsWithoutGzip/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.rule.ruleScore.median matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.rule.ruleScore.median matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/rule/ruleScore/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssImagesPerPage.min matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssImagesPerPage.min matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/cssImagesPerPage/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.rule.criticalPathScore.mean matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.rule.criticalPathScore.mean matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/rule/criticalPathScore/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.rule.spofPerPage.sum matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.rule.spofPerPage.sum matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/rule/spofPerPage/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssPerPage.sum matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssPerPage.sum matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/cssPerPage/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.rule.spofPerPage.p99 matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.rule.spofPerPage.p99 matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/rule/spofPerPage/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.assets.cssWeight matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.assets.cssWeight matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/http/www_quickenloans_com/_mortgage-application_four-steps/assets/cssWeight.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.jsWeight.p10 matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.jsWeight.p10 matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/jsWeight/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssWeight.p99 matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssWeight.p99 matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/cssWeight/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.fontsPerPage.min matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.fontsPerPage.min matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/fontsPerPage/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.docWeight.median matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.docWeight.median matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/docWeight/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.singleDomainRequests.p90 matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.singleDomainRequests.p90 matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/singleDomainRequests/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.rules.thirdpartyversions matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.http.www_quickenloans_com._mortgage-application_four-steps.rules.thirdpartyversions matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/http/www_quickenloans_com/_mortgage-application_four-steps/rules/thirdpartyversions.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssWeight.p90 matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.cssWeight.p90 matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/cssWeight/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.singleDomainRequests.p99 matched schema default_1min_for_1day
+28/03/2016 15:08:24 :: new metric dulles.chrome.summary.www.quickenloans.com.pagemetric.singleDomainRequests.p99 matched aggregation schema default
+28/03/2016 15:08:24 :: creating database file /opt/graphite/storage/whisper/dulles/chrome/summary/www/quickenloans/com/pagemetric/singleDomainRequests/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.pageWeight.min matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.pageWeight.min matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/pageWeight/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesPerPage.median matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesPerPage.median matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imagesPerPage/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.pageWeight.sum matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.pageWeight.sum matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/pageWeight/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeight.min matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeight.min matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsWeight/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.redirectsPerPage.p10 matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.redirectsPerPage.p10 matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/redirectsPerPage/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.cssWeight matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.cssWeight matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/assets/cssWeight.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.median matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.median matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/maxRequestsPerHost/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.rule.noDuplicates.max matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.rule.noDuplicates.max matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/noDuplicates/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.p10 matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.p10 matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsWeightPerPage/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.rule.spofPerPage.sum matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.rule.spofPerPage.sum matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/spofPerPage/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesPerPage.p10 matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesPerPage.p10 matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imagesPerPage/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.rule.criticalPathScore.mean matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.rule.criticalPathScore.mean matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/criticalPathScore/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.docWeight.median matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.docWeight.median matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/docWeight/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imageWeight.p99 matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imageWeight.p99 matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imageWeight/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cacheTime.median matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cacheTime.median matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cacheTime/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsPerPage.max matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsPerPage.max matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsPerPage/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesPerPage.max matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesPerPage.max matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imagesPerPage/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imageWeight.p90 matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imageWeight.p90 matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imageWeight/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.avoidscalingimages matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.avoidscalingimages matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/avoidscalingimages.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.thirdpartyversions matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.thirdpartyversions matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/thirdpartyversions.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.rule.browserScaledImages.max matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.rule.browserScaledImages.max matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/browserScaledImages/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.cssimageWeight matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.cssimageWeight matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/assets/cssimageWeight.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.timeSinceLastMod.median matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.timeSinceLastMod.median matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/timeSinceLastMod/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.longexpirehead matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.longexpirehead matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/longexpirehead.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.rule.spofPerPage.min matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.rule.spofPerPage.min matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/spofPerPage/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.cssnumreq matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.cssnumreq matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/cssnumreq.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requests.median matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requests.median matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requests/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.cssinheaddomain matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.cssinheaddomain matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/cssinheaddomain.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.jsWeight matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.jsWeight matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/assets/jsWeight.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssImagesPerPage.min matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssImagesPerPage.min matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssImagesPerPage/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.jsnumreq matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.jsnumreq matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/jsnumreq.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.max matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.max matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requestsWithoutGzip/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.rule.noDuplicates.median matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.rule.noDuplicates.median matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/noDuplicates/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cacheTime.sum matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cacheTime.sum matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cacheTime/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.p99 matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.p99 matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/maxRequestsPerHost/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cacheTime.p99 matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cacheTime.p99 matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cacheTime/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.p90 matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.p90 matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/maxRequestsPerHost/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssPerPage.median matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssPerPage.median matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssPerPage/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.yexpressions matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.yexpressions matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/yexpressions.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cacheTime.p90 matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cacheTime.p90 matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cacheTime/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeight.p99 matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeight.p99 matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsWeight/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.docWeight.min matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.docWeight.min matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/docWeight/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeight.p90 matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeight.p90 matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsWeight/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeight.p10 matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeight.p10 matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssWeight/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutExpires.p10 matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutExpires.p10 matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requestsWithoutExpires/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.docWeight.sum matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.docWeight.sum matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/docWeight/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.flash matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.flash matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/assets/flash.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeight.sum matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeight.sum matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssWeight/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.p10 matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.p10 matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imagesWeightPerPage/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.domElements.p90 matched schema default_1min_for_1day
+28/03/2016 15:34:46 :: new metric wpt.summary.www.quickenloans.com.pagemetric.domElements.p90 matched aggregation schema default
+28/03/2016 15:34:46 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/domElements/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.http.www_quickenloans_com._mortgage-application_four-steps.assets.docWeight matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.http.www_quickenloans_com._mortgage-application_four-steps.assets.docWeight matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/http/www_quickenloans_com/_mortgage-application_four-steps/assets/docWeight.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.singleDomainRequests.median matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.singleDomainRequests.median matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/singleDomainRequests/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.p10 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.p10 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/maxRequestsPerHost/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.sum matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.sum matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/jsWeightPerPage/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.spofPerPage.p10 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.spofPerPage.p10 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/rule/spofPerPage/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.criticalPathScore.sum matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.criticalPathScore.sum matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/rule/criticalPathScore/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.docWeight.median matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.docWeight.median matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/docWeight/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.criticalPathScore.p10 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.criticalPathScore.p10 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/rule/criticalPathScore/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.singleDomainRequests.p10 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.singleDomainRequests.p10 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/singleDomainRequests/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.jsSyncInHead.median matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.jsSyncInHead.median matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/jsSyncInHead/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.numberOfDomains.p10 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.numberOfDomains.p10 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/numberOfDomains/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.timeSinceLastMod.median matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.timeSinceLastMod.median matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/timeSinceLastMod/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.spofPerPage.min matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.spofPerPage.min matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/rule/spofPerPage/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.pagesWithSPOF.sum matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.pagesWithSPOF.sum matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/rule/pagesWithSPOF/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.http.www_quickenloans_com._mortgage-application_four-steps.rules.cssimagesnumreq matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.http.www_quickenloans_com._mortgage-application_four-steps.rules.cssimagesnumreq matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/http/www_quickenloans_com/_mortgage-application_four-steps/rules/cssimagesnumreq.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.numberOfDomains.sum matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.numberOfDomains.sum matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/numberOfDomains/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.cssImagesPerPage.sum matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.cssImagesPerPage.sum matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/cssImagesPerPage/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.http.www_quickenloans_com._mortgage-application_four-steps.rules.criticalpath matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.http.www_quickenloans_com._mortgage-application_four-steps.rules.criticalpath matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/http/www_quickenloans_com/_mortgage-application_four-steps/rules/criticalpath.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.min matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.min matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/jsWeightPerPage/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.median matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.median matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/jsWeightPerPage/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.pagesWithSPOF.median matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.pagesWithSPOF.median matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/rule/pagesWithSPOF/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.numberOfDomains.max matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.numberOfDomains.max matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/numberOfDomains/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.noDuplicates.mean matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.noDuplicates.mean matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/rule/noDuplicates/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.noDuplicates.sum matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.noDuplicates.sum matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/rule/noDuplicates/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.imageWeight.p10 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.imageWeight.p10 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/imageWeight/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.http.www_quickenloans_com._mortgage-application_four-steps.rules.cssinheaddomain matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.http.www_quickenloans_com._mortgage-application_four-steps.rules.cssinheaddomain matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/http/www_quickenloans_com/_mortgage-application_four-steps/rules/cssinheaddomain.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.fontsPerPage.median matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.fontsPerPage.median matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/fontsPerPage/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.http.www_quickenloans_com._mortgage-application_four-steps.assets.flashWeight matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.http.www_quickenloans_com._mortgage-application_four-steps.assets.flashWeight matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/http/www_quickenloans_com/_mortgage-application_four-steps/assets/flashWeight.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.noDuplicates.p10 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.noDuplicates.p10 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/rule/noDuplicates/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.domElements.p99 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.domElements.p99 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/domElements/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.pagesWithSPOF.p90 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.pagesWithSPOF.p90 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/rule/pagesWithSPOF/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.cssPerPage.min matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.cssPerPage.min matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/cssPerPage/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.domElements.min matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.domElements.min matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/domElements/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.domElements.p90 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.domElements.p90 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/domElements/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.http.www_quickenloans_com._mortgage-application_four-steps.rules.nodnslookupswhenfewrequests matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.http.www_quickenloans_com._mortgage-application_four-steps.rules.nodnslookupswhenfewrequests matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/http/www_quickenloans_com/_mortgage-application_four-steps/rules/nodnslookupswhenfewrequests.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.cssPerPage.sum matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.cssPerPage.sum matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/cssPerPage/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.http.www_quickenloans_com._mortgage-application_four-steps.assets.css matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.http.www_quickenloans_com._mortgage-application_four-steps.assets.css matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/http/www_quickenloans_com/_mortgage-application_four-steps/assets/css.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.jsPerPage.max matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.jsPerPage.max matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/jsPerPage/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.singleDomainRequests.min matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.singleDomainRequests.min matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/singleDomainRequests/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.redirectsPerPage.p10 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.redirectsPerPage.p10 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/redirectsPerPage/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.p90 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.p90 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/imagesWeightPerPage/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.pagesWithSPOF.p10 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.rule.pagesWithSPOF.p10 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/rule/pagesWithSPOF/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.pageWeight.p90 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.pageWeight.p90 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/pageWeight/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.p99 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.p99 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/imagesWeightPerPage/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.pageWeight.p99 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.pageWeight.p99 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/pageWeight/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.pageWeight.mean matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.pageWeight.mean matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/pageWeight/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.fontsPerPage.min matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.fontsPerPage.min matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/fontsPerPage/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.median matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.median matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/maxRequestsPerHost/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.jsWeight.min matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.jsWeight.min matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/jsWeight/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.jsWeight.p99 matched schema default_1min_for_1day
+28/03/2016 15:37:28 :: new metric wpt2.summary.www.quickenloans.com.pagemetric.jsWeight.p99 matched aggregation schema default
+28/03/2016 15:37:28 :: creating database file /opt/graphite/storage/whisper/wpt2/summary/www/quickenloans/com/pagemetric/jsWeight/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.pageWeight.p10 matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.pageWeight.p10 matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/pageWeight/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.rule.spofPerPage.max matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.rule.spofPerPage.max matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/spofPerPage/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.domElements.p99 matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.domElements.p99 matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/domElements/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.rule.browserScaledImages.sum matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.rule.browserScaledImages.sum matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/browserScaledImages/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.font matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.font matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/assets/font.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.criticalpath matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.criticalpath matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/criticalpath.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.rule.pagesWithSPOF.p10 matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.rule.pagesWithSPOF.p10 matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/pagesWithSPOF/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.rule.spofPerPage.p99 matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.rule.spofPerPage.p99 matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/spofPerPage/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssPerPage.sum matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssPerPage.sum matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssPerPage/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeight.sum matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeight.sum matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsWeight/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.numberOfDomains.p90 matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.numberOfDomains.p90 matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/numberOfDomains/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.rule.spofPerPage.p90 matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.rule.spofPerPage.p90 matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/spofPerPage/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.domElements.sum matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.domElements.sum matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/domElements/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.fontsPerPage.min matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.fontsPerPage.min matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/fontsPerPage/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.css matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.css matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/assets/css.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.singleDomainRequests.min matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.singleDomainRequests.min matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/singleDomainRequests/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.meta.sitespeed.version matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.meta.sitespeed.version matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/meta/sitespeed/version.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssImagesPerPage.mean matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssImagesPerPage.mean matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssImagesPerPage/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.ydns matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.ydns matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/ydns.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.rule.noDuplicates.p99 matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.rule.noDuplicates.p99 matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/noDuplicates/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.sum matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.sum matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsWeightPerPage/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.cacheTime matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.cacheTime matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/cacheTime.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.yfavicon matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.yfavicon matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/yfavicon.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.rule.pagesWithSPOF.min matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.rule.pagesWithSPOF.min matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/pagesWithSPOF/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.redirectsPerPage.max matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.redirectsPerPage.max matched aggregation schema default
+28/03/2016 15:39:37 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/redirectsPerPage/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.p99 matched schema default_1min_for_1day
+28/03/2016 15:39:37 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.p99 matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsWeightPerPage/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.docWeight matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.docWeight matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/assets/docWeight.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.p99 matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.p99 matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requestsWithoutGzip/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.docWeight.p90 matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.docWeight.p90 matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/docWeight/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.textcontent matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.textcontent matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/textcontent.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.yjsbottom matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.yjsbottom matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/yjsbottom.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.mean matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.mean matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requestsWithoutGzip/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.fontsPerPage.mean matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.fontsPerPage.mean matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/fontsPerPage/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.docWeight.p99 matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.docWeight.p99 matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/docWeight/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.domElements.mean matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.domElements.mean matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/domElements/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.timeSinceLastModification matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.timeSinceLastModification matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/timeSinceLastModification.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsSyncInHead.p10 matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsSyncInHead.p10 matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsSyncInHead/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.rule.noDuplicates.mean matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.rule.noDuplicates.mean matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/noDuplicates/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.fontsPerPage.p10 matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.fontsPerPage.p10 matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/fontsPerPage/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssImagesPerPage.p10 matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssImagesPerPage.p10 matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssImagesPerPage/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.ycdn matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.ycdn matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/ycdn.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.rule.ruleScore.min matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.rule.ruleScore.min matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/ruleScore/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.doc matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.doc matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/assets/doc.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.totalrequests matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.totalrequests matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/totalrequests.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imageWeight.median matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imageWeight.median matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imageWeight/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.ymincookie matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.ymincookie matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/ymincookie.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imageWeight.min matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imageWeight.min matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imageWeight/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsPerPage.median matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsPerPage.median matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsPerPage/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.rule.browserScaledImages.mean matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.rule.browserScaledImages.mean matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/browserScaledImages/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsPerPage.mean matched schema default_1min_for_1day
+28/03/2016 15:39:38 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsPerPage.mean matched aggregation schema default
+28/03/2016 15:39:38 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsPerPage/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cacheTime.max matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cacheTime.max matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cacheTime/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsSyncInHead.median matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsSyncInHead.median matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsSyncInHead/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.singleDomainRequests.median matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.singleDomainRequests.median matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/singleDomainRequests/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.numberOfDomains.max matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.numberOfDomains.max matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/numberOfDomains/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.rule.criticalPathScore.max matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.rule.criticalPathScore.max matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/criticalPathScore/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.rule.criticalPathScore.p10 matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.rule.criticalPathScore.p10 matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/criticalPathScore/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.rule.noDuplicates.p10 matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.rule.noDuplicates.p10 matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/noDuplicates/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requests.p90 matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requests.p90 matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requests/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requests.p99 matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requests.p99 matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requests/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.min matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.min matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imagesWeightPerPage/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.expiresmod matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.expiresmod matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/expiresmod.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.iframeWeight matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.iframeWeight matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/assets/iframeWeight.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imageWeight.sum matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imageWeight.sum matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imageWeight/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.rule.pagesWithSPOF.sum matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.rule.pagesWithSPOF.sum matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/pagesWithSPOF/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeight.min matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeight.min matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssWeight/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssPerPage.max matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssPerPage.max matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssPerPage/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.numberOfDomains.p99 matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.numberOfDomains.p99 matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/numberOfDomains/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.privateheaders matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.privateheaders matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/privateheaders.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.numberOfDomains.sum matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.numberOfDomains.sum matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/numberOfDomains/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssPerPage.p90 matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssPerPage.p90 matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssPerPage/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.image matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.image matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/assets/image.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.timeSinceLastMod.sum matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.timeSinceLastMod.sum matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/timeSinceLastMod/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imageWeight.mean matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imageWeight.mean matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imageWeight/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssPerPage.p99 matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssPerPage.p99 matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssPerPage/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.iframe matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.iframe matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/assets/iframe.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.domElements.min matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.domElements.min matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/domElements/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.yminify matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.yminify matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/yminify.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutExpires.median matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutExpires.median matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requestsWithoutExpires/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.timeSinceLastMod.min matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.timeSinceLastMod.min matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/timeSinceLastMod/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.connectionclose matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.connectionclose matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/connectionclose.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.avoidfont matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.avoidfont matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/avoidfont.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsPerPage.min matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsPerPage.min matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsPerPage/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesPerPage.min matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesPerPage.min matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imagesPerPage/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsPerPage.p99 matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsPerPage.p99 matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsPerPage/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsSyncInHead.max matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsSyncInHead.max matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsSyncInHead/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requests.min matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requests.min matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requests/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsSyncInHead.p90 matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsSyncInHead.p90 matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsSyncInHead/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesPerPage.sum matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesPerPage.sum matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imagesPerPage/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.fontsPerPage.median matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.fontsPerPage.median matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/fontsPerPage/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.pageWeight matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.pageWeight matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/pageWeight.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.rule.criticalPathScore.sum matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.rule.criticalPathScore.sum matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/criticalPathScore/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.median matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.median matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssWeightPerPage/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.rule.ruleScore.p99 matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.rule.ruleScore.p99 matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/ruleScore/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.pageWeight.median matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.pageWeight.median matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/pageWeight/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsPerPage.p90 matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsPerPage.p90 matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsPerPage/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.fontsPerPage.p90 matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.fontsPerPage.p90 matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/fontsPerPage/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.rule.ruleScore.p90 matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.rule.ruleScore.p90 matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/ruleScore/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.yemptysrc matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.yemptysrc matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/yemptysrc.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.p99 matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.p99 matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssWeightPerPage/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.p90 matched schema default_1min_for_1day
+28/03/2016 15:42:33 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.p90 matched aggregation schema default
+28/03/2016 15:42:33 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssWeightPerPage/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.pageWeight.mean matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.pageWeight.mean matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/pageWeight/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsSyncInHead.mean matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsSyncInHead.mean matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsSyncInHead/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.numberOfDomains.min matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.numberOfDomains.min matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/numberOfDomains/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.min matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.min matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssWeightPerPage/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.noduplicates matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.noduplicates matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/noduplicates.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.sum matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.sum matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssWeightPerPage/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.pagesWithSPOF.mean matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.pagesWithSPOF.mean matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/pagesWithSPOF/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.numberOfDomains.mean matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.numberOfDomains.mean matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/numberOfDomains/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.min matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.min matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/maxRequestsPerHost/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requests.mean matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requests.mean matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requests/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutExpires.min matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutExpires.min matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requestsWithoutExpires/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.timeSinceLastMod.p99 matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.timeSinceLastMod.p99 matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/timeSinceLastMod/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeight.max matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeight.max matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsWeight/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.browserScaledImages.p10 matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.browserScaledImages.p10 matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/browserScaledImages/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.max matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.max matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/maxRequestsPerHost/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.redirectsPerPage.p99 matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.redirectsPerPage.p99 matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/redirectsPerPage/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.cssimagesnumreq matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.cssimagesnumreq matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/cssimagesnumreq.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.criticalPathScore.median matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.criticalPathScore.median matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/criticalPathScore/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.docWeight.mean matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.docWeight.mean matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/docWeight/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.noDuplicates.min matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.noDuplicates.min matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/noDuplicates/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.redirectsPerPage.p90 matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.redirectsPerPage.p90 matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/redirectsPerPage/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.noRequests matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.noRequests matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/noRequests.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeight.mean matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeight.mean matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssWeight/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.ruleScore.max matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.ruleScore.max matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/ruleScore/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesPerPage.p99 matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesPerPage.p99 matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imagesPerPage/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imageWeight.p10 matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imageWeight.p10 matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imageWeight/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesPerPage.p90 matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesPerPage.p90 matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imagesPerPage/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.pageWeight.max matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.pageWeight.max matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/pageWeight/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.requestsMissingExpire matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.requestsMissingExpire matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/requestsMissingExpire.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.fontsPerPage.max matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.fontsPerPage.max matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/fontsPerPage/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.inlinecsswhenfewrequest matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.inlinecsswhenfewrequest matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/inlinecsswhenfewrequest.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.singleDomainRequests.mean matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.singleDomainRequests.mean matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/singleDomainRequests/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.p90 matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.p90 matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requestsWithoutGzip/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.max matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.max matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsWeightPerPage/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.spofPerPage.median matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.spofPerPage.median matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/spofPerPage/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.timeSinceLastMod.mean matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.timeSinceLastMod.mean matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/timeSinceLastMod/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.fontWeight matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.fontWeight matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/assets/fontWeight.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.p10 matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.p10 matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssWeightPerPage/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.min matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.min matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requestsWithoutGzip/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.p90 matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.p90 matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsWeightPerPage/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.flashWeight matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.flashWeight matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/assets/flashWeight.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.domElements.median matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.domElements.median matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/domElements/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssImagesPerPage.max matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssImagesPerPage.max matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssImagesPerPage/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.ruleScore.sum matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.ruleScore.sum matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/ruleScore/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.browserScaledImages.p99 matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.browserScaledImages.p99 matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/browserScaledImages/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.docWeight.max matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.docWeight.max matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/docWeight/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cacheTime.p10 matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cacheTime.p10 matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cacheTime/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.score matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.score matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/score.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.browserScaledImages.min matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.browserScaledImages.min matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/browserScaledImages/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.browserScaledImages.p90 matched schema default_1min_for_1day
+28/03/2016 15:46:47 :: new metric wpt.summary.www.quickenloans.com.rule.browserScaledImages.p90 matched aggregation schema default
+28/03/2016 15:46:47 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/browserScaledImages/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeight.p10 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeight.p10 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsWeight/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutExpires.p90 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutExpires.p90 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requestsWithoutExpires/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutExpires.p99 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutExpires.p99 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requestsWithoutExpires/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.singleDomainRequests.max matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.singleDomainRequests.max matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/singleDomainRequests/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutExpires.sum matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutExpires.sum matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requestsWithoutExpires/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.testedPages matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.testedPages matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/testedPages.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.rule.pagesWithSPOF.median matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.rule.pagesWithSPOF.median matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/pagesWithSPOF/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.p10 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.maxRequestsPerHost.p10 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/maxRequestsPerHost/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.p99 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.p99 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imagesWeightPerPage/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.pageWeight.p99 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.pageWeight.p99 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/pageWeight/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.singleDomainRequests.p99 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.singleDomainRequests.p99 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/singleDomainRequests/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.p90 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.p90 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imagesWeightPerPage/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.mean matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.mean matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imagesWeightPerPage/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.pageWeight.p90 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.pageWeight.p90 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/pageWeight/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.yxhr matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.yxhr matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/yxhr.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeight.p90 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeight.p90 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssWeight/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.rule.spofPerPage.p10 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.rule.spofPerPage.p10 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/spofPerPage/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeight.p99 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeight.p99 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssWeight/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.rule.ruleScore.median matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.rule.ruleScore.median matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/ruleScore/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.fontsPerPage.sum matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.fontsPerPage.sum matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/fontsPerPage/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.redirectsPerPage.sum matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.redirectsPerPage.sum matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/redirectsPerPage/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.sum matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.sum matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imagesWeightPerPage/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.domElements.p10 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.domElements.p10 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/domElements/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.rule.spofPerPage.mean matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.rule.spofPerPage.mean matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/spofPerPage/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.singleDomainRequests.p90 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.singleDomainRequests.p90 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/singleDomainRequests/p90.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.redirects matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.redirects matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/redirects.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.thirdpartyasyncjs matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.thirdpartyasyncjs matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/thirdpartyasyncjs.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssImagesPerPage.median matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssImagesPerPage.median matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssImagesPerPage/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.redirectsPerPage.min matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.redirectsPerPage.min matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/redirectsPerPage/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesPerPage.mean matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesPerPage.mean matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imagesPerPage/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.mean matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeightPerPage.mean matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssWeightPerPage/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsSyncInHead.p99 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsSyncInHead.p99 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsSyncInHead/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.docWeight.p10 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.docWeight.p10 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/docWeight/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.fontsPerPage.p99 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.fontsPerPage.p99 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/fontsPerPage/p99.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeight.max matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssWeight.max matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssWeight/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.imageWeight matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.assets.imageWeight matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/assets/imageWeight.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.mindom matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.mindom matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/mindom.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.yetags matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.yetags matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/yetags.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.p10 matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.p10 matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requestsWithoutGzip/p10.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.max matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.max matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imagesWeightPerPage/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.ycompress matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.ycompress matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/ycompress.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.rule.ruleScore.mean matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.rule.ruleScore.mean matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/rule/ruleScore/mean.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.cssprint matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.http.www_quickenloans_com._mortgage-application_four-steps.rules.cssprint matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/http/www_quickenloans_com/_mortgage-application_four-steps/rules/cssprint.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.runsPerBrowser matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.runsPerBrowser matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/runsPerBrowser.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imageWeight.max matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imageWeight.max matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imageWeight/max.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.sum matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.requestsWithoutGzip.sum matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/requestsWithoutGzip/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.min matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.jsWeightPerPage.min matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/jsWeightPerPage/min.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssImagesPerPage.sum matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.cssImagesPerPage.sum matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/cssImagesPerPage/sum.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.median matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.imagesWeightPerPage.median matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/imagesWeightPerPage/median.wsp (archive=[(60, 1440)] xff=None agg=None)
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.redirectsPerPage.median matched schema default_1min_for_1day
+28/03/2016 15:51:09 :: new metric wpt.summary.www.quickenloans.com.pagemetric.redirectsPerPage.median matched aggregation schema default
+28/03/2016 15:51:09 :: creating database file /opt/graphite/storage/whisper/wpt/summary/www/quickenloans/com/pagemetric/redirectsPerPage/median.wsp (archive=[(60, 1440)] xff=None agg=None)

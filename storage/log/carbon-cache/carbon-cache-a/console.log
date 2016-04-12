@@ -1,0 +1,1305 @@
+12/04/2016 02:06:40 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 02:06:41 :: Sorted 15 cache queues in 0.000117 seconds
+12/04/2016 08:42:00 :: Sorted 15 cache queues in 0.008137 seconds
+12/04/2016 08:42:01 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:42:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:42:23 :: Sorted 15 cache queues in 0.000053 seconds
+12/04/2016 08:43:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:43:23 :: Sorted 15 cache queues in 0.000035 seconds
+12/04/2016 08:44:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:44:23 :: Sorted 15 cache queues in 0.000131 seconds
+12/04/2016 08:45:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:45:22 :: Sorted 15 cache queues in 0.000056 seconds
+12/04/2016 08:46:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:46:23 :: Sorted 15 cache queues in 0.000114 seconds
+12/04/2016 08:47:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:47:23 :: Sorted 15 cache queues in 0.000046 seconds
+12/04/2016 08:48:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:48:23 :: Sorted 15 cache queues in 0.000057 seconds
+12/04/2016 08:48:46 :: Sorted 13 cache queues in 0.000057 seconds
+12/04/2016 08:48:56 :: Sorted 14 cache queues in 0.000057 seconds
+12/04/2016 08:49:06 :: Sorted 14 cache queues in 0.000040 seconds
+12/04/2016 08:49:16 :: Sorted 149 cache queues in 0.000301 seconds
+12/04/2016 08:49:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:49:23 :: Sorted 15 cache queues in 0.000042 seconds
+12/04/2016 08:49:26 :: Sorted 149 cache queues in 0.000256 seconds
+12/04/2016 08:49:36 :: Sorted 149 cache queues in 0.000131 seconds
+12/04/2016 08:49:46 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 08:49:56 :: Sorted 149 cache queues in 0.000201 seconds
+12/04/2016 08:50:06 :: Sorted 149 cache queues in 0.000096 seconds
+12/04/2016 08:50:16 :: Sorted 149 cache queues in 0.000293 seconds
+12/04/2016 08:50:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:50:22 :: Sorted 15 cache queues in 0.000079 seconds
+12/04/2016 08:50:26 :: Sorted 149 cache queues in 0.000091 seconds
+12/04/2016 08:50:37 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 08:50:47 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 08:50:57 :: Sorted 149 cache queues in 0.000170 seconds
+12/04/2016 08:51:07 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 08:51:17 :: Sorted 149 cache queues in 0.000146 seconds
+12/04/2016 08:51:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:51:23 :: Sorted 15 cache queues in 0.000062 seconds
+12/04/2016 08:51:27 :: Sorted 149 cache queues in 0.000191 seconds
+12/04/2016 08:51:37 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 08:51:46 :: Sorted 149 cache queues in 0.000164 seconds
+12/04/2016 08:51:56 :: Sorted 149 cache queues in 0.000198 seconds
+12/04/2016 08:52:06 :: Sorted 149 cache queues in 0.000095 seconds
+12/04/2016 08:52:16 :: Sorted 149 cache queues in 0.000084 seconds
+12/04/2016 08:52:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:52:23 :: Sorted 15 cache queues in 0.000045 seconds
+12/04/2016 08:52:26 :: Sorted 149 cache queues in 0.000216 seconds
+12/04/2016 08:52:36 :: Sorted 149 cache queues in 0.000240 seconds
+12/04/2016 08:52:46 :: Sorted 149 cache queues in 0.000277 seconds
+12/04/2016 08:52:56 :: Sorted 149 cache queues in 0.000112 seconds
+12/04/2016 08:53:06 :: Sorted 149 cache queues in 0.000095 seconds
+12/04/2016 08:53:16 :: Sorted 149 cache queues in 0.000094 seconds
+12/04/2016 08:53:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:53:22 :: Sorted 15 cache queues in 0.000048 seconds
+12/04/2016 08:53:27 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 08:53:37 :: Sorted 149 cache queues in 0.000130 seconds
+12/04/2016 08:53:47 :: Sorted 149 cache queues in 0.000160 seconds
+12/04/2016 08:53:57 :: Sorted 149 cache queues in 0.000102 seconds
+12/04/2016 08:54:07 :: Sorted 149 cache queues in 0.000250 seconds
+12/04/2016 08:54:17 :: Sorted 149 cache queues in 0.000099 seconds
+12/04/2016 08:54:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:54:23 :: Sorted 15 cache queues in 0.000041 seconds
+12/04/2016 08:54:27 :: Sorted 149 cache queues in 0.000160 seconds
+12/04/2016 08:54:36 :: Sorted 149 cache queues in 0.000251 seconds
+12/04/2016 08:54:46 :: Sorted 149 cache queues in 0.000095 seconds
+12/04/2016 08:54:56 :: Sorted 149 cache queues in 0.000093 seconds
+12/04/2016 08:55:06 :: Sorted 149 cache queues in 0.000089 seconds
+12/04/2016 08:55:16 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 08:55:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:55:22 :: Sorted 15 cache queues in 0.000044 seconds
+12/04/2016 08:55:26 :: Sorted 149 cache queues in 0.000244 seconds
+12/04/2016 08:55:36 :: Sorted 149 cache queues in 0.000136 seconds
+12/04/2016 08:55:46 :: Sorted 149 cache queues in 0.000247 seconds
+12/04/2016 08:55:56 :: Sorted 149 cache queues in 0.000188 seconds
+12/04/2016 08:56:06 :: Sorted 149 cache queues in 0.000175 seconds
+12/04/2016 08:56:17 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 08:56:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:56:23 :: Sorted 15 cache queues in 0.000214 seconds
+12/04/2016 08:56:27 :: Sorted 149 cache queues in 0.000174 seconds
+12/04/2016 08:56:37 :: Sorted 149 cache queues in 0.000086 seconds
+12/04/2016 08:56:47 :: Sorted 149 cache queues in 0.000097 seconds
+12/04/2016 08:56:57 :: Sorted 149 cache queues in 0.000145 seconds
+12/04/2016 08:57:07 :: Sorted 149 cache queues in 0.000087 seconds
+12/04/2016 08:57:17 :: Sorted 149 cache queues in 0.000166 seconds
+12/04/2016 08:57:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:57:23 :: Sorted 15 cache queues in 0.000044 seconds
+12/04/2016 08:57:26 :: Sorted 149 cache queues in 0.000207 seconds
+12/04/2016 08:57:36 :: Sorted 149 cache queues in 0.000092 seconds
+12/04/2016 08:57:46 :: Sorted 149 cache queues in 0.000177 seconds
+12/04/2016 08:57:56 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 08:58:06 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 08:58:16 :: Sorted 149 cache queues in 0.000128 seconds
+12/04/2016 08:58:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:58:22 :: Sorted 15 cache queues in 0.000117 seconds
+12/04/2016 08:58:26 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 08:58:36 :: Sorted 149 cache queues in 0.000086 seconds
+12/04/2016 08:58:46 :: Sorted 149 cache queues in 0.000085 seconds
+12/04/2016 08:58:56 :: Sorted 149 cache queues in 0.000087 seconds
+12/04/2016 08:59:07 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 08:59:17 :: Sorted 149 cache queues in 0.000110 seconds
+12/04/2016 08:59:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 08:59:23 :: Sorted 15 cache queues in 0.000047 seconds
+12/04/2016 08:59:27 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 08:59:37 :: Sorted 149 cache queues in 0.000256 seconds
+12/04/2016 08:59:47 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 08:59:57 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 09:00:07 :: Sorted 149 cache queues in 0.000095 seconds
+12/04/2016 09:00:17 :: Sorted 149 cache queues in 0.000114 seconds
+12/04/2016 09:00:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:00:23 :: Sorted 15 cache queues in 0.000046 seconds
+12/04/2016 09:00:26 :: Sorted 149 cache queues in 0.000085 seconds
+12/04/2016 09:00:36 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 09:00:46 :: Sorted 149 cache queues in 0.000144 seconds
+12/04/2016 09:00:56 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 09:01:06 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 09:01:16 :: Sorted 149 cache queues in 0.000117 seconds
+12/04/2016 09:01:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:01:22 :: Sorted 15 cache queues in 0.000045 seconds
+12/04/2016 09:01:26 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 09:01:36 :: Sorted 149 cache queues in 0.000189 seconds
+12/04/2016 09:01:47 :: Sorted 149 cache queues in 0.000235 seconds
+12/04/2016 09:01:57 :: Sorted 149 cache queues in 0.000102 seconds
+12/04/2016 09:02:07 :: Sorted 149 cache queues in 0.000159 seconds
+12/04/2016 09:02:17 :: Sorted 149 cache queues in 0.000209 seconds
+12/04/2016 09:02:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:02:23 :: Sorted 15 cache queues in 0.000064 seconds
+12/04/2016 09:02:27 :: Sorted 149 cache queues in 0.000164 seconds
+12/04/2016 09:02:37 :: Sorted 149 cache queues in 0.000100 seconds
+12/04/2016 09:02:47 :: Sorted 149 cache queues in 0.000160 seconds
+12/04/2016 09:02:57 :: Sorted 149 cache queues in 0.000101 seconds
+12/04/2016 09:03:07 :: Sorted 149 cache queues in 0.000179 seconds
+12/04/2016 09:03:16 :: Sorted 149 cache queues in 0.000151 seconds
+12/04/2016 09:03:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:03:23 :: Sorted 15 cache queues in 0.000046 seconds
+12/04/2016 09:03:26 :: Sorted 149 cache queues in 0.000149 seconds
+12/04/2016 09:03:36 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 09:03:46 :: Sorted 149 cache queues in 0.000149 seconds
+12/04/2016 09:03:56 :: Sorted 149 cache queues in 0.000093 seconds
+12/04/2016 09:04:06 :: Sorted 149 cache queues in 0.000215 seconds
+12/04/2016 09:04:16 :: Sorted 149 cache queues in 0.000179 seconds
+12/04/2016 09:04:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:04:22 :: Sorted 15 cache queues in 0.000045 seconds
+12/04/2016 09:04:26 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 09:04:37 :: Sorted 149 cache queues in 0.000084 seconds
+12/04/2016 09:04:47 :: Sorted 149 cache queues in 0.000245 seconds
+12/04/2016 09:04:57 :: Sorted 149 cache queues in 0.000148 seconds
+12/04/2016 09:05:07 :: Sorted 149 cache queues in 0.000258 seconds
+12/04/2016 09:05:17 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 09:05:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:05:23 :: Sorted 15 cache queues in 0.000037 seconds
+12/04/2016 09:05:27 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 09:05:37 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 09:05:47 :: Sorted 149 cache queues in 0.000157 seconds
+12/04/2016 09:05:56 :: Sorted 149 cache queues in 0.000193 seconds
+12/04/2016 09:06:06 :: Sorted 149 cache queues in 0.000084 seconds
+12/04/2016 09:06:16 :: Sorted 149 cache queues in 0.000156 seconds
+12/04/2016 09:06:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:06:22 :: Sorted 15 cache queues in 0.000061 seconds
+12/04/2016 09:06:26 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 09:06:36 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 09:06:46 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 09:06:56 :: Sorted 149 cache queues in 0.000199 seconds
+12/04/2016 09:07:06 :: Sorted 149 cache queues in 0.000254 seconds
+12/04/2016 09:07:17 :: Sorted 149 cache queues in 0.000085 seconds
+12/04/2016 09:07:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:07:23 :: Sorted 15 cache queues in 0.000043 seconds
+12/04/2016 09:07:27 :: Sorted 149 cache queues in 0.000184 seconds
+12/04/2016 09:07:37 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 09:07:47 :: Sorted 149 cache queues in 0.000124 seconds
+12/04/2016 09:07:57 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 09:08:07 :: Sorted 149 cache queues in 0.000135 seconds
+12/04/2016 09:08:17 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 09:08:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:08:23 :: Sorted 15 cache queues in 0.000061 seconds
+12/04/2016 09:08:27 :: Sorted 149 cache queues in 0.000180 seconds
+12/04/2016 09:08:37 :: Sorted 149 cache queues in 0.000101 seconds
+12/04/2016 09:08:46 :: Sorted 149 cache queues in 0.000080 seconds
+12/04/2016 09:08:56 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 09:09:06 :: Sorted 149 cache queues in 0.000172 seconds
+12/04/2016 09:09:16 :: Sorted 149 cache queues in 0.000148 seconds
+12/04/2016 09:09:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:09:22 :: Sorted 15 cache queues in 0.000060 seconds
+12/04/2016 09:09:26 :: Sorted 149 cache queues in 0.000102 seconds
+12/04/2016 09:09:36 :: Sorted 149 cache queues in 0.000241 seconds
+12/04/2016 09:09:46 :: Sorted 149 cache queues in 0.000265 seconds
+12/04/2016 09:09:56 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 09:10:06 :: Sorted 149 cache queues in 0.000089 seconds
+12/04/2016 09:10:16 :: Sorted 149 cache queues in 0.000187 seconds
+12/04/2016 09:10:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:10:22 :: Sorted 15 cache queues in 0.000043 seconds
+12/04/2016 09:10:26 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 09:10:36 :: Sorted 149 cache queues in 0.000133 seconds
+12/04/2016 09:10:46 :: Sorted 149 cache queues in 0.000153 seconds
+12/04/2016 09:10:56 :: Sorted 149 cache queues in 0.000115 seconds
+12/04/2016 09:11:07 :: Sorted 149 cache queues in 0.000088 seconds
+12/04/2016 09:11:17 :: Sorted 149 cache queues in 0.000102 seconds
+12/04/2016 09:11:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:11:23 :: Sorted 15 cache queues in 0.000043 seconds
+12/04/2016 09:11:27 :: Sorted 149 cache queues in 0.000252 seconds
+12/04/2016 09:11:37 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 09:11:47 :: Sorted 149 cache queues in 0.000269 seconds
+12/04/2016 09:11:56 :: Sorted 149 cache queues in 0.000108 seconds
+12/04/2016 09:12:06 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 09:12:16 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 09:12:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:12:23 :: Sorted 15 cache queues in 0.000042 seconds
+12/04/2016 09:12:26 :: Sorted 149 cache queues in 0.000239 seconds
+12/04/2016 09:12:36 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 09:12:46 :: Sorted 149 cache queues in 0.000266 seconds
+12/04/2016 09:12:56 :: Sorted 149 cache queues in 0.000160 seconds
+12/04/2016 09:13:06 :: Sorted 149 cache queues in 0.000083 seconds
+12/04/2016 09:13:16 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 09:13:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:13:22 :: Sorted 15 cache queues in 0.000064 seconds
+12/04/2016 09:13:26 :: Sorted 149 cache queues in 0.000160 seconds
+12/04/2016 09:13:36 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 09:13:46 :: Sorted 149 cache queues in 0.000249 seconds
+12/04/2016 09:13:56 :: Sorted 149 cache queues in 0.000149 seconds
+12/04/2016 09:14:07 :: Sorted 149 cache queues in 0.000155 seconds
+12/04/2016 09:14:17 :: Sorted 149 cache queues in 0.000101 seconds
+12/04/2016 09:14:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:14:23 :: Sorted 15 cache queues in 0.000041 seconds
+12/04/2016 09:14:27 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 09:14:37 :: Sorted 149 cache queues in 0.000110 seconds
+12/04/2016 09:14:47 :: Sorted 149 cache queues in 0.000091 seconds
+12/04/2016 09:14:57 :: Sorted 149 cache queues in 0.000148 seconds
+12/04/2016 09:15:06 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 09:15:16 :: Sorted 149 cache queues in 0.000157 seconds
+12/04/2016 09:15:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:15:23 :: Sorted 15 cache queues in 0.000121 seconds
+12/04/2016 09:15:26 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 09:15:36 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 09:15:46 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 09:15:56 :: Sorted 149 cache queues in 0.000147 seconds
+12/04/2016 09:16:06 :: Sorted 149 cache queues in 0.000124 seconds
+12/04/2016 09:16:16 :: Sorted 149 cache queues in 0.000158 seconds
+12/04/2016 09:16:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:16:22 :: Sorted 15 cache queues in 0.000047 seconds
+12/04/2016 09:16:26 :: Sorted 149 cache queues in 0.000147 seconds
+12/04/2016 09:16:36 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 09:16:46 :: Sorted 149 cache queues in 0.000113 seconds
+12/04/2016 09:16:56 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 09:17:07 :: Sorted 149 cache queues in 0.000094 seconds
+12/04/2016 09:17:17 :: Sorted 149 cache queues in 0.000112 seconds
+12/04/2016 09:17:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:17:23 :: Sorted 15 cache queues in 0.000042 seconds
+12/04/2016 09:17:27 :: Sorted 149 cache queues in 0.000153 seconds
+12/04/2016 09:17:37 :: Sorted 149 cache queues in 0.000143 seconds
+12/04/2016 09:17:47 :: Sorted 149 cache queues in 0.000117 seconds
+12/04/2016 09:17:57 :: Sorted 149 cache queues in 0.000164 seconds
+12/04/2016 09:18:06 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 09:18:16 :: Sorted 149 cache queues in 0.000102 seconds
+12/04/2016 09:18:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:18:23 :: Sorted 15 cache queues in 0.000109 seconds
+12/04/2016 09:18:26 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 09:18:36 :: Sorted 149 cache queues in 0.000164 seconds
+12/04/2016 09:18:46 :: Sorted 149 cache queues in 0.000110 seconds
+12/04/2016 09:18:56 :: Sorted 149 cache queues in 0.000115 seconds
+12/04/2016 09:19:06 :: Sorted 149 cache queues in 0.000084 seconds
+12/04/2016 09:19:16 :: Sorted 149 cache queues in 0.000151 seconds
+12/04/2016 09:19:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:19:22 :: Sorted 15 cache queues in 0.000074 seconds
+12/04/2016 09:19:26 :: Sorted 149 cache queues in 0.000158 seconds
+12/04/2016 09:19:36 :: Sorted 149 cache queues in 0.000247 seconds
+12/04/2016 09:19:47 :: Sorted 149 cache queues in 0.000224 seconds
+12/04/2016 09:19:57 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 09:20:07 :: Sorted 149 cache queues in 0.000094 seconds
+12/04/2016 09:20:17 :: Sorted 149 cache queues in 0.000119 seconds
+12/04/2016 09:20:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:20:23 :: Sorted 15 cache queues in 0.000043 seconds
+12/04/2016 09:20:27 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 09:20:37 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 09:20:47 :: Sorted 149 cache queues in 0.000153 seconds
+12/04/2016 09:20:56 :: Sorted 149 cache queues in 0.000253 seconds
+12/04/2016 09:21:06 :: Sorted 149 cache queues in 0.000136 seconds
+12/04/2016 09:21:16 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 09:21:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:21:23 :: Sorted 15 cache queues in 0.000045 seconds
+12/04/2016 09:21:26 :: Sorted 149 cache queues in 0.000151 seconds
+12/04/2016 09:21:36 :: Sorted 149 cache queues in 0.000101 seconds
+12/04/2016 09:21:46 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 09:21:56 :: Sorted 149 cache queues in 0.000158 seconds
+12/04/2016 09:22:06 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 09:22:16 :: Sorted 149 cache queues in 0.000113 seconds
+12/04/2016 09:22:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:22:22 :: Sorted 15 cache queues in 0.000064 seconds
+12/04/2016 09:22:26 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 09:22:37 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 09:22:47 :: Sorted 149 cache queues in 0.000112 seconds
+12/04/2016 09:22:57 :: Sorted 149 cache queues in 0.000192 seconds
+12/04/2016 09:23:07 :: Sorted 149 cache queues in 0.000152 seconds
+12/04/2016 09:23:17 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 09:23:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:23:23 :: Sorted 15 cache queues in 0.000046 seconds
+12/04/2016 09:23:27 :: Sorted 149 cache queues in 0.000140 seconds
+12/04/2016 09:23:37 :: Sorted 149 cache queues in 0.000156 seconds
+12/04/2016 09:23:47 :: Sorted 149 cache queues in 0.000239 seconds
+12/04/2016 09:23:56 :: Sorted 149 cache queues in 0.000232 seconds
+12/04/2016 09:24:06 :: Sorted 149 cache queues in 0.000236 seconds
+12/04/2016 09:24:16 :: Sorted 149 cache queues in 0.000218 seconds
+12/04/2016 09:24:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:24:23 :: Sorted 15 cache queues in 0.000061 seconds
+12/04/2016 09:24:26 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 09:24:36 :: Sorted 149 cache queues in 0.000095 seconds
+12/04/2016 09:24:46 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 09:24:56 :: Sorted 149 cache queues in 0.000112 seconds
+12/04/2016 09:25:06 :: Sorted 149 cache queues in 0.000086 seconds
+12/04/2016 09:25:16 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 09:25:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:25:22 :: Sorted 15 cache queues in 0.000043 seconds
+12/04/2016 09:25:26 :: Sorted 149 cache queues in 0.000167 seconds
+12/04/2016 09:25:37 :: Sorted 149 cache queues in 0.000112 seconds
+12/04/2016 09:25:47 :: Sorted 149 cache queues in 0.000159 seconds
+12/04/2016 09:25:57 :: Sorted 149 cache queues in 0.000155 seconds
+12/04/2016 09:26:07 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 09:26:17 :: Sorted 149 cache queues in 0.000116 seconds
+12/04/2016 09:26:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:26:23 :: Sorted 15 cache queues in 0.000048 seconds
+12/04/2016 09:26:27 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 09:26:37 :: Sorted 149 cache queues in 0.000155 seconds
+12/04/2016 09:26:46 :: Sorted 149 cache queues in 0.000152 seconds
+12/04/2016 09:26:56 :: Sorted 149 cache queues in 0.000149 seconds
+12/04/2016 09:27:06 :: Sorted 149 cache queues in 0.000088 seconds
+12/04/2016 09:27:16 :: Sorted 149 cache queues in 0.000117 seconds
+12/04/2016 09:27:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:27:23 :: Sorted 15 cache queues in 0.000061 seconds
+12/04/2016 09:27:26 :: Sorted 149 cache queues in 0.000115 seconds
+12/04/2016 09:27:36 :: Sorted 149 cache queues in 0.000084 seconds
+12/04/2016 09:27:46 :: Sorted 149 cache queues in 0.000225 seconds
+12/04/2016 09:27:56 :: Sorted 149 cache queues in 0.000097 seconds
+12/04/2016 09:28:06 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 09:28:16 :: Sorted 149 cache queues in 0.000149 seconds
+12/04/2016 09:28:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:28:23 :: Sorted 15 cache queues in 0.000045 seconds
+12/04/2016 09:28:27 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 09:28:37 :: Sorted 149 cache queues in 0.000145 seconds
+12/04/2016 09:28:47 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 09:28:57 :: Sorted 149 cache queues in 0.000251 seconds
+12/04/2016 09:29:07 :: Sorted 149 cache queues in 0.000147 seconds
+12/04/2016 09:29:17 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 09:29:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:29:23 :: Sorted 15 cache queues in 0.000044 seconds
+12/04/2016 09:29:27 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 09:29:37 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 09:29:46 :: Sorted 149 cache queues in 0.000250 seconds
+12/04/2016 09:29:56 :: Sorted 149 cache queues in 0.000207 seconds
+12/04/2016 09:30:06 :: Sorted 149 cache queues in 0.000166 seconds
+12/04/2016 09:30:16 :: Sorted 149 cache queues in 0.000099 seconds
+12/04/2016 09:30:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:30:22 :: Sorted 15 cache queues in 0.000072 seconds
+12/04/2016 09:30:26 :: Sorted 149 cache queues in 0.000151 seconds
+12/04/2016 09:30:36 :: Sorted 149 cache queues in 0.000260 seconds
+12/04/2016 09:30:46 :: Sorted 149 cache queues in 0.000156 seconds
+12/04/2016 09:30:56 :: Sorted 149 cache queues in 0.000122 seconds
+12/04/2016 09:31:06 :: Sorted 149 cache queues in 0.000084 seconds
+12/04/2016 09:31:17 :: Sorted 149 cache queues in 0.000114 seconds
+12/04/2016 09:31:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:31:23 :: Sorted 15 cache queues in 0.000045 seconds
+12/04/2016 09:31:27 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 09:31:37 :: Sorted 149 cache queues in 0.000092 seconds
+12/04/2016 09:31:47 :: Sorted 149 cache queues in 0.000273 seconds
+12/04/2016 09:31:57 :: Sorted 149 cache queues in 0.000223 seconds
+12/04/2016 09:32:07 :: Sorted 149 cache queues in 0.000250 seconds
+12/04/2016 09:32:17 :: Sorted 149 cache queues in 0.000166 seconds
+12/04/2016 09:32:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:32:23 :: Sorted 15 cache queues in 0.000034 seconds
+12/04/2016 09:32:27 :: Sorted 149 cache queues in 0.000126 seconds
+12/04/2016 09:32:37 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 09:32:46 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 09:32:56 :: Sorted 149 cache queues in 0.000110 seconds
+12/04/2016 09:33:06 :: Sorted 149 cache queues in 0.000108 seconds
+12/04/2016 09:33:16 :: Sorted 149 cache queues in 0.000210 seconds
+12/04/2016 09:33:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:33:22 :: Sorted 15 cache queues in 0.000061 seconds
+12/04/2016 09:33:26 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 09:33:36 :: Sorted 149 cache queues in 0.000247 seconds
+12/04/2016 09:33:46 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 09:33:56 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 09:34:06 :: Sorted 149 cache queues in 0.000156 seconds
+12/04/2016 09:34:17 :: Sorted 149 cache queues in 0.000272 seconds
+12/04/2016 09:34:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:34:23 :: Sorted 15 cache queues in 0.000061 seconds
+12/04/2016 09:34:27 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 09:34:37 :: Sorted 149 cache queues in 0.000153 seconds
+12/04/2016 09:34:47 :: Sorted 149 cache queues in 0.000249 seconds
+12/04/2016 09:34:57 :: Sorted 149 cache queues in 0.000240 seconds
+12/04/2016 09:35:07 :: Sorted 149 cache queues in 0.000157 seconds
+12/04/2016 09:35:17 :: Sorted 149 cache queues in 0.000245 seconds
+12/04/2016 09:35:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:35:23 :: Sorted 15 cache queues in 0.000064 seconds
+12/04/2016 09:35:27 :: Sorted 149 cache queues in 0.000256 seconds
+12/04/2016 09:35:37 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 09:35:46 :: Sorted 149 cache queues in 0.000248 seconds
+12/04/2016 09:35:56 :: Sorted 149 cache queues in 0.000231 seconds
+12/04/2016 09:36:06 :: Sorted 149 cache queues in 0.000085 seconds
+12/04/2016 09:36:16 :: Sorted 149 cache queues in 0.000208 seconds
+12/04/2016 09:36:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:36:22 :: Sorted 15 cache queues in 0.000061 seconds
+12/04/2016 09:36:26 :: Sorted 149 cache queues in 0.000260 seconds
+12/04/2016 09:36:36 :: Sorted 149 cache queues in 0.000148 seconds
+12/04/2016 09:36:46 :: Sorted 149 cache queues in 0.000151 seconds
+12/04/2016 09:36:57 :: Sorted 149 cache queues in 0.000118 seconds
+12/04/2016 09:37:07 :: Sorted 149 cache queues in 0.000165 seconds
+12/04/2016 09:37:17 :: Sorted 149 cache queues in 0.000083 seconds
+12/04/2016 09:37:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:37:23 :: Sorted 15 cache queues in 0.000111 seconds
+12/04/2016 09:37:27 :: Sorted 149 cache queues in 0.000144 seconds
+12/04/2016 09:37:37 :: Sorted 149 cache queues in 0.000147 seconds
+12/04/2016 09:37:47 :: Sorted 149 cache queues in 0.000110 seconds
+12/04/2016 09:37:57 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 09:38:07 :: Sorted 149 cache queues in 0.000153 seconds
+12/04/2016 09:38:17 :: Sorted 149 cache queues in 0.000149 seconds
+12/04/2016 09:38:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:38:23 :: Sorted 15 cache queues in 0.000047 seconds
+12/04/2016 09:38:27 :: Sorted 149 cache queues in 0.000152 seconds
+12/04/2016 09:38:36 :: Sorted 149 cache queues in 0.000117 seconds
+12/04/2016 09:38:46 :: Sorted 149 cache queues in 0.000255 seconds
+12/04/2016 09:38:56 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 09:39:06 :: Sorted 149 cache queues in 0.000245 seconds
+12/04/2016 09:39:16 :: Sorted 149 cache queues in 0.000250 seconds
+12/04/2016 09:39:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:39:22 :: Sorted 15 cache queues in 0.000116 seconds
+12/04/2016 09:39:26 :: Sorted 149 cache queues in 0.000246 seconds
+12/04/2016 09:39:36 :: Sorted 149 cache queues in 0.000247 seconds
+12/04/2016 09:39:47 :: Sorted 149 cache queues in 0.000247 seconds
+12/04/2016 09:39:57 :: Sorted 149 cache queues in 0.000091 seconds
+12/04/2016 09:40:07 :: Sorted 149 cache queues in 0.000098 seconds
+12/04/2016 09:40:17 :: Sorted 149 cache queues in 0.000217 seconds
+12/04/2016 09:40:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:40:23 :: Sorted 15 cache queues in 0.000108 seconds
+12/04/2016 09:40:27 :: Sorted 149 cache queues in 0.000115 seconds
+12/04/2016 09:40:37 :: Sorted 149 cache queues in 0.000248 seconds
+12/04/2016 09:40:47 :: Sorted 149 cache queues in 0.000156 seconds
+12/04/2016 09:40:57 :: Sorted 149 cache queues in 0.000164 seconds
+12/04/2016 09:41:07 :: Sorted 149 cache queues in 0.000259 seconds
+12/04/2016 09:41:17 :: Sorted 149 cache queues in 0.000243 seconds
+12/04/2016 09:41:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:41:23 :: Sorted 15 cache queues in 0.000039 seconds
+12/04/2016 09:41:27 :: Sorted 149 cache queues in 0.000269 seconds
+12/04/2016 09:41:36 :: Sorted 149 cache queues in 0.000074 seconds
+12/04/2016 09:41:46 :: Sorted 149 cache queues in 0.000112 seconds
+12/04/2016 09:41:56 :: Sorted 149 cache queues in 0.000241 seconds
+12/04/2016 09:42:06 :: Sorted 149 cache queues in 0.000256 seconds
+12/04/2016 09:42:16 :: Sorted 149 cache queues in 0.000241 seconds
+12/04/2016 09:42:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:42:22 :: Sorted 15 cache queues in 0.000050 seconds
+12/04/2016 09:42:26 :: Sorted 149 cache queues in 0.000113 seconds
+12/04/2016 09:42:37 :: Sorted 149 cache queues in 0.000191 seconds
+12/04/2016 09:42:47 :: Sorted 149 cache queues in 0.000152 seconds
+12/04/2016 09:42:57 :: Sorted 149 cache queues in 0.000153 seconds
+12/04/2016 09:43:07 :: Sorted 149 cache queues in 0.000244 seconds
+12/04/2016 09:43:17 :: Sorted 149 cache queues in 0.000253 seconds
+12/04/2016 09:43:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:43:23 :: Sorted 15 cache queues in 0.000120 seconds
+12/04/2016 09:43:27 :: Sorted 149 cache queues in 0.000086 seconds
+12/04/2016 09:43:37 :: Sorted 149 cache queues in 0.000249 seconds
+12/04/2016 09:43:47 :: Sorted 149 cache queues in 0.000108 seconds
+12/04/2016 09:43:57 :: Sorted 149 cache queues in 0.000151 seconds
+12/04/2016 09:44:07 :: Sorted 149 cache queues in 0.000166 seconds
+12/04/2016 09:44:17 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 09:44:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:44:23 :: Sorted 15 cache queues in 0.000045 seconds
+12/04/2016 09:44:27 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 09:44:36 :: Sorted 149 cache queues in 0.000092 seconds
+12/04/2016 09:44:46 :: Sorted 149 cache queues in 0.000249 seconds
+12/04/2016 09:44:56 :: Sorted 149 cache queues in 0.000260 seconds
+12/04/2016 09:45:06 :: Sorted 149 cache queues in 0.000198 seconds
+12/04/2016 09:45:16 :: Sorted 149 cache queues in 0.000148 seconds
+12/04/2016 09:45:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:45:22 :: Sorted 15 cache queues in 0.000114 seconds
+12/04/2016 09:45:27 :: Sorted 149 cache queues in 0.000248 seconds
+12/04/2016 09:45:37 :: Sorted 149 cache queues in 0.000147 seconds
+12/04/2016 09:45:47 :: Sorted 149 cache queues in 0.000141 seconds
+12/04/2016 09:45:57 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 09:46:07 :: Sorted 149 cache queues in 0.000225 seconds
+12/04/2016 09:46:17 :: Sorted 149 cache queues in 0.000228 seconds
+12/04/2016 09:46:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:46:23 :: Sorted 15 cache queues in 0.000042 seconds
+12/04/2016 09:46:27 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 09:46:37 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 09:46:47 :: Sorted 149 cache queues in 0.000160 seconds
+12/04/2016 09:46:57 :: Sorted 149 cache queues in 0.000168 seconds
+12/04/2016 09:47:07 :: Sorted 149 cache queues in 0.000110 seconds
+12/04/2016 09:47:17 :: Sorted 149 cache queues in 0.000166 seconds
+12/04/2016 09:47:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:47:23 :: Sorted 15 cache queues in 0.000065 seconds
+12/04/2016 09:47:26 :: Sorted 149 cache queues in 0.000121 seconds
+12/04/2016 09:47:36 :: Sorted 149 cache queues in 0.000250 seconds
+12/04/2016 09:47:46 :: Sorted 149 cache queues in 0.000160 seconds
+12/04/2016 09:47:56 :: Sorted 149 cache queues in 0.000261 seconds
+12/04/2016 09:48:06 :: Sorted 149 cache queues in 0.000243 seconds
+12/04/2016 09:48:17 :: Sorted 149 cache queues in 0.000315 seconds
+12/04/2016 09:48:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:48:23 :: Sorted 15 cache queues in 0.000109 seconds
+12/04/2016 09:48:27 :: Sorted 149 cache queues in 0.000243 seconds
+12/04/2016 09:48:37 :: Sorted 149 cache queues in 0.000149 seconds
+12/04/2016 09:48:47 :: Sorted 149 cache queues in 0.000159 seconds
+12/04/2016 09:48:57 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 09:49:07 :: Sorted 149 cache queues in 0.000159 seconds
+12/04/2016 09:49:17 :: Sorted 149 cache queues in 0.000244 seconds
+12/04/2016 09:49:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:49:23 :: Sorted 15 cache queues in 0.000108 seconds
+12/04/2016 09:49:27 :: Sorted 149 cache queues in 0.000252 seconds
+12/04/2016 09:49:37 :: Sorted 149 cache queues in 0.000254 seconds
+12/04/2016 09:49:47 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 09:49:57 :: Sorted 149 cache queues in 0.000197 seconds
+12/04/2016 09:50:07 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 09:50:17 :: Sorted 149 cache queues in 0.000207 seconds
+12/04/2016 09:50:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:50:22 :: Sorted 15 cache queues in 0.000102 seconds
+12/04/2016 09:50:26 :: Sorted 149 cache queues in 0.000202 seconds
+12/04/2016 09:50:36 :: Sorted 149 cache queues in 0.000114 seconds
+12/04/2016 09:50:46 :: Sorted 149 cache queues in 0.000158 seconds
+12/04/2016 09:50:56 :: Sorted 149 cache queues in 0.000115 seconds
+12/04/2016 09:51:06 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 09:51:17 :: Sorted 149 cache queues in 0.000183 seconds
+12/04/2016 09:51:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:51:23 :: Sorted 15 cache queues in 0.000043 seconds
+12/04/2016 09:51:27 :: Sorted 149 cache queues in 0.000223 seconds
+12/04/2016 09:51:37 :: Sorted 149 cache queues in 0.000097 seconds
+12/04/2016 09:51:47 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 09:51:57 :: Sorted 149 cache queues in 0.000222 seconds
+12/04/2016 09:52:07 :: Sorted 149 cache queues in 0.000196 seconds
+12/04/2016 09:52:17 :: Sorted 149 cache queues in 0.000160 seconds
+12/04/2016 09:52:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:52:23 :: Sorted 15 cache queues in 0.000049 seconds
+12/04/2016 09:52:27 :: Sorted 149 cache queues in 0.000242 seconds
+12/04/2016 09:52:37 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 09:52:47 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 09:52:57 :: Sorted 149 cache queues in 0.000165 seconds
+12/04/2016 09:53:07 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 09:53:17 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 09:53:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:53:22 :: Sorted 15 cache queues in 0.000114 seconds
+12/04/2016 09:53:26 :: Sorted 149 cache queues in 0.000157 seconds
+12/04/2016 09:53:36 :: Sorted 149 cache queues in 0.000108 seconds
+12/04/2016 09:53:46 :: Sorted 149 cache queues in 0.000153 seconds
+12/04/2016 09:53:56 :: Sorted 149 cache queues in 0.000249 seconds
+12/04/2016 09:54:07 :: Sorted 149 cache queues in 0.000235 seconds
+12/04/2016 09:54:17 :: Sorted 149 cache queues in 0.000135 seconds
+12/04/2016 09:54:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:54:23 :: Sorted 15 cache queues in 0.000110 seconds
+12/04/2016 09:54:27 :: Sorted 149 cache queues in 0.000085 seconds
+12/04/2016 09:54:37 :: Sorted 149 cache queues in 0.000245 seconds
+12/04/2016 09:54:47 :: Sorted 149 cache queues in 0.000164 seconds
+12/04/2016 09:54:57 :: Sorted 149 cache queues in 0.000144 seconds
+12/04/2016 09:55:07 :: Sorted 149 cache queues in 0.000247 seconds
+12/04/2016 09:55:17 :: Sorted 149 cache queues in 0.000098 seconds
+12/04/2016 09:55:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:55:23 :: Sorted 15 cache queues in 0.000062 seconds
+12/04/2016 09:55:27 :: Sorted 149 cache queues in 0.000251 seconds
+12/04/2016 09:55:37 :: Sorted 149 cache queues in 0.000096 seconds
+12/04/2016 09:55:47 :: Sorted 149 cache queues in 0.000115 seconds
+12/04/2016 09:55:57 :: Sorted 149 cache queues in 0.000143 seconds
+12/04/2016 09:56:07 :: Sorted 149 cache queues in 0.000157 seconds
+12/04/2016 09:56:17 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 09:56:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:56:22 :: Sorted 15 cache queues in 0.000048 seconds
+12/04/2016 09:56:26 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 09:56:36 :: Sorted 149 cache queues in 0.000253 seconds
+12/04/2016 09:56:46 :: Sorted 149 cache queues in 0.000236 seconds
+12/04/2016 09:56:57 :: Sorted 149 cache queues in 0.000083 seconds
+12/04/2016 09:57:07 :: Sorted 149 cache queues in 0.000248 seconds
+12/04/2016 09:57:17 :: Sorted 149 cache queues in 0.000086 seconds
+12/04/2016 09:57:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:57:23 :: Sorted 15 cache queues in 0.000048 seconds
+12/04/2016 09:57:27 :: Sorted 149 cache queues in 0.000095 seconds
+12/04/2016 09:57:37 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 09:57:47 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 09:57:57 :: Sorted 149 cache queues in 0.000114 seconds
+12/04/2016 09:58:07 :: Sorted 149 cache queues in 0.000241 seconds
+12/04/2016 09:58:17 :: Sorted 149 cache queues in 0.000175 seconds
+12/04/2016 09:58:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:58:23 :: Sorted 15 cache queues in 0.000107 seconds
+12/04/2016 09:58:27 :: Sorted 149 cache queues in 0.000254 seconds
+12/04/2016 09:58:37 :: Sorted 149 cache queues in 0.000165 seconds
+12/04/2016 09:58:47 :: Sorted 149 cache queues in 0.000248 seconds
+12/04/2016 09:58:57 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 09:59:07 :: Sorted 149 cache queues in 0.000151 seconds
+12/04/2016 09:59:16 :: Sorted 149 cache queues in 0.000253 seconds
+12/04/2016 09:59:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 09:59:22 :: Sorted 15 cache queues in 0.000131 seconds
+12/04/2016 09:59:26 :: Sorted 149 cache queues in 0.000251 seconds
+12/04/2016 09:59:36 :: Sorted 149 cache queues in 0.000141 seconds
+12/04/2016 09:59:47 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 09:59:57 :: Sorted 149 cache queues in 0.000115 seconds
+12/04/2016 10:00:07 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 10:00:17 :: Sorted 149 cache queues in 0.000160 seconds
+12/04/2016 10:00:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:00:23 :: Sorted 15 cache queues in 0.000051 seconds
+12/04/2016 10:00:27 :: Sorted 149 cache queues in 0.000114 seconds
+12/04/2016 10:00:37 :: Sorted 149 cache queues in 0.000148 seconds
+12/04/2016 10:00:47 :: Sorted 149 cache queues in 0.000156 seconds
+12/04/2016 10:00:57 :: Sorted 149 cache queues in 0.000091 seconds
+12/04/2016 10:01:07 :: Sorted 149 cache queues in 0.000182 seconds
+12/04/2016 10:01:17 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 10:01:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:01:23 :: Sorted 15 cache queues in 0.000046 seconds
+12/04/2016 10:01:27 :: Sorted 149 cache queues in 0.000167 seconds
+12/04/2016 10:01:37 :: Sorted 149 cache queues in 0.000101 seconds
+12/04/2016 10:01:47 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 10:01:57 :: Sorted 149 cache queues in 0.000188 seconds
+12/04/2016 10:02:07 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 10:02:16 :: Sorted 149 cache queues in 0.000090 seconds
+12/04/2016 10:02:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:02:22 :: Sorted 15 cache queues in 0.000122 seconds
+12/04/2016 10:02:26 :: Sorted 149 cache queues in 0.000102 seconds
+12/04/2016 10:02:37 :: Sorted 149 cache queues in 0.000169 seconds
+12/04/2016 10:02:47 :: Sorted 149 cache queues in 0.000242 seconds
+12/04/2016 10:02:57 :: Sorted 149 cache queues in 0.000233 seconds
+12/04/2016 10:03:07 :: Sorted 149 cache queues in 0.000153 seconds
+12/04/2016 10:03:17 :: Sorted 149 cache queues in 0.000102 seconds
+12/04/2016 10:03:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:03:23 :: Sorted 15 cache queues in 0.000047 seconds
+12/04/2016 10:03:27 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 10:03:37 :: Sorted 149 cache queues in 0.000180 seconds
+12/04/2016 10:03:47 :: Sorted 149 cache queues in 0.000246 seconds
+12/04/2016 10:03:57 :: Sorted 149 cache queues in 0.000148 seconds
+12/04/2016 10:04:07 :: Sorted 149 cache queues in 0.000101 seconds
+12/04/2016 10:04:17 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 10:04:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:04:23 :: Sorted 15 cache queues in 0.000042 seconds
+12/04/2016 10:04:27 :: Sorted 149 cache queues in 0.000112 seconds
+12/04/2016 10:04:37 :: Sorted 149 cache queues in 0.000166 seconds
+12/04/2016 10:04:47 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 10:04:57 :: Sorted 149 cache queues in 0.000257 seconds
+12/04/2016 10:05:06 :: Sorted 149 cache queues in 0.000115 seconds
+12/04/2016 10:05:16 :: Sorted 149 cache queues in 0.000151 seconds
+12/04/2016 10:05:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:05:22 :: Sorted 15 cache queues in 0.000115 seconds
+12/04/2016 10:05:27 :: Sorted 149 cache queues in 0.000177 seconds
+12/04/2016 10:05:37 :: Sorted 149 cache queues in 0.000124 seconds
+12/04/2016 10:05:47 :: Sorted 149 cache queues in 0.000238 seconds
+12/04/2016 10:05:57 :: Sorted 149 cache queues in 0.000101 seconds
+12/04/2016 10:06:07 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 10:06:17 :: Sorted 149 cache queues in 0.000084 seconds
+12/04/2016 10:06:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:06:23 :: Sorted 15 cache queues in 0.000062 seconds
+12/04/2016 10:06:27 :: Sorted 149 cache queues in 0.000273 seconds
+12/04/2016 10:06:37 :: Sorted 149 cache queues in 0.000187 seconds
+12/04/2016 10:06:47 :: Sorted 149 cache queues in 0.000240 seconds
+12/04/2016 10:06:57 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 10:07:07 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 10:07:17 :: Sorted 149 cache queues in 0.000098 seconds
+12/04/2016 10:07:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:07:23 :: Sorted 15 cache queues in 0.000046 seconds
+12/04/2016 10:07:27 :: Sorted 149 cache queues in 0.000159 seconds
+12/04/2016 10:07:37 :: Sorted 149 cache queues in 0.000149 seconds
+12/04/2016 10:07:47 :: Sorted 149 cache queues in 0.000245 seconds
+12/04/2016 10:07:57 :: Sorted 149 cache queues in 0.000242 seconds
+12/04/2016 10:08:06 :: Sorted 149 cache queues in 0.000240 seconds
+12/04/2016 10:08:17 :: Sorted 149 cache queues in 0.000252 seconds
+12/04/2016 10:08:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:08:23 :: Sorted 15 cache queues in 0.000043 seconds
+12/04/2016 10:08:27 :: Sorted 149 cache queues in 0.000244 seconds
+12/04/2016 10:08:37 :: Sorted 149 cache queues in 0.000246 seconds
+12/04/2016 10:08:47 :: Sorted 149 cache queues in 0.000151 seconds
+12/04/2016 10:08:57 :: Sorted 149 cache queues in 0.000245 seconds
+12/04/2016 10:09:07 :: Sorted 149 cache queues in 0.000149 seconds
+12/04/2016 10:09:17 :: Sorted 149 cache queues in 0.000158 seconds
+12/04/2016 10:09:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:09:23 :: Sorted 15 cache queues in 0.000046 seconds
+12/04/2016 10:09:27 :: Sorted 149 cache queues in 0.000257 seconds
+12/04/2016 10:09:37 :: Sorted 149 cache queues in 0.000189 seconds
+12/04/2016 10:09:47 :: Sorted 149 cache queues in 0.000166 seconds
+12/04/2016 10:09:57 :: Sorted 149 cache queues in 0.000260 seconds
+12/04/2016 10:10:07 :: Sorted 149 cache queues in 0.000151 seconds
+12/04/2016 10:10:17 :: Sorted 149 cache queues in 0.000247 seconds
+12/04/2016 10:10:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:10:22 :: Sorted 15 cache queues in 0.000037 seconds
+12/04/2016 10:10:27 :: Sorted 149 cache queues in 0.000165 seconds
+12/04/2016 10:10:37 :: Sorted 149 cache queues in 0.000225 seconds
+12/04/2016 10:10:47 :: Sorted 149 cache queues in 0.000087 seconds
+12/04/2016 10:10:57 :: Sorted 149 cache queues in 0.000108 seconds
+12/04/2016 10:11:06 :: Sorted 149 cache queues in 0.000149 seconds
+12/04/2016 10:11:17 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 10:11:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:11:23 :: Sorted 15 cache queues in 0.000063 seconds
+12/04/2016 10:11:27 :: Sorted 149 cache queues in 0.000087 seconds
+12/04/2016 10:11:37 :: Sorted 149 cache queues in 0.000157 seconds
+12/04/2016 10:11:47 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 10:11:57 :: Sorted 149 cache queues in 0.000088 seconds
+12/04/2016 10:12:07 :: Sorted 149 cache queues in 0.000112 seconds
+12/04/2016 10:12:17 :: Sorted 149 cache queues in 0.000102 seconds
+12/04/2016 10:12:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:12:23 :: Sorted 15 cache queues in 0.000109 seconds
+12/04/2016 10:12:27 :: Sorted 149 cache queues in 0.000221 seconds
+12/04/2016 10:12:37 :: Sorted 149 cache queues in 0.000287 seconds
+12/04/2016 10:12:47 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 10:12:57 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 10:13:07 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 10:13:17 :: Sorted 149 cache queues in 0.000149 seconds
+12/04/2016 10:13:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:13:22 :: Sorted 15 cache queues in 0.000058 seconds
+12/04/2016 10:13:27 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 10:13:37 :: Sorted 149 cache queues in 0.000099 seconds
+12/04/2016 10:13:47 :: Sorted 149 cache queues in 0.000071 seconds
+12/04/2016 10:13:57 :: Sorted 149 cache queues in 0.000147 seconds
+12/04/2016 10:14:06 :: Sorted 149 cache queues in 0.000084 seconds
+12/04/2016 10:14:17 :: Sorted 149 cache queues in 0.000152 seconds
+12/04/2016 10:14:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:14:23 :: Sorted 15 cache queues in 0.000085 seconds
+12/04/2016 10:14:27 :: Sorted 149 cache queues in 0.000125 seconds
+12/04/2016 10:14:37 :: Sorted 149 cache queues in 0.000245 seconds
+12/04/2016 10:14:47 :: Sorted 149 cache queues in 0.000153 seconds
+12/04/2016 10:14:57 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 10:15:07 :: Sorted 149 cache queues in 0.000102 seconds
+12/04/2016 10:15:17 :: Sorted 149 cache queues in 0.000113 seconds
+12/04/2016 10:15:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:15:23 :: Sorted 15 cache queues in 0.000129 seconds
+12/04/2016 10:15:27 :: Sorted 149 cache queues in 0.000113 seconds
+12/04/2016 10:15:37 :: Sorted 149 cache queues in 0.000233 seconds
+12/04/2016 10:15:47 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 10:15:57 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 10:16:07 :: Sorted 149 cache queues in 0.000240 seconds
+12/04/2016 10:16:17 :: Sorted 149 cache queues in 0.000160 seconds
+12/04/2016 10:16:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:16:22 :: Sorted 15 cache queues in 0.000047 seconds
+12/04/2016 10:16:27 :: Sorted 149 cache queues in 0.000114 seconds
+12/04/2016 10:16:37 :: Sorted 149 cache queues in 0.000099 seconds
+12/04/2016 10:16:47 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 10:16:57 :: Sorted 149 cache queues in 0.000100 seconds
+12/04/2016 10:17:07 :: Sorted 149 cache queues in 0.000179 seconds
+12/04/2016 10:17:17 :: Sorted 149 cache queues in 0.000160 seconds
+12/04/2016 10:17:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:17:23 :: Sorted 15 cache queues in 0.000044 seconds
+12/04/2016 10:17:27 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 10:17:37 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 10:17:47 :: Sorted 149 cache queues in 0.000146 seconds
+12/04/2016 10:17:57 :: Sorted 149 cache queues in 0.000136 seconds
+12/04/2016 10:18:07 :: Sorted 149 cache queues in 0.000147 seconds
+12/04/2016 10:18:17 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 10:18:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:18:23 :: Sorted 15 cache queues in 0.000060 seconds
+12/04/2016 10:18:27 :: Sorted 149 cache queues in 0.000237 seconds
+12/04/2016 10:18:37 :: Sorted 149 cache queues in 0.000248 seconds
+12/04/2016 10:18:47 :: Sorted 149 cache queues in 0.000160 seconds
+12/04/2016 10:18:57 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 10:19:07 :: Sorted 149 cache queues in 0.000113 seconds
+12/04/2016 10:19:17 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 10:19:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:19:22 :: Sorted 15 cache queues in 0.000043 seconds
+12/04/2016 10:19:27 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 10:19:37 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 10:19:47 :: Sorted 149 cache queues in 0.000133 seconds
+12/04/2016 10:19:58 :: Sorted 149 cache queues in 0.000261 seconds
+12/04/2016 10:20:08 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 10:20:17 :: Sorted 149 cache queues in 0.000101 seconds
+12/04/2016 10:20:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:20:23 :: Sorted 15 cache queues in 0.000065 seconds
+12/04/2016 10:20:27 :: Sorted 149 cache queues in 0.000096 seconds
+12/04/2016 10:20:37 :: Sorted 149 cache queues in 0.000152 seconds
+12/04/2016 10:20:47 :: Sorted 149 cache queues in 0.000160 seconds
+12/04/2016 10:20:57 :: Sorted 149 cache queues in 0.000099 seconds
+12/04/2016 10:21:07 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 10:21:17 :: Sorted 149 cache queues in 0.000165 seconds
+12/04/2016 10:21:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:21:23 :: Sorted 15 cache queues in 0.000046 seconds
+12/04/2016 10:21:27 :: Sorted 149 cache queues in 0.000247 seconds
+12/04/2016 10:21:37 :: Sorted 149 cache queues in 0.000158 seconds
+12/04/2016 10:21:47 :: Sorted 149 cache queues in 0.000133 seconds
+12/04/2016 10:21:57 :: Sorted 149 cache queues in 0.000119 seconds
+12/04/2016 10:22:07 :: Sorted 149 cache queues in 0.000164 seconds
+12/04/2016 10:22:17 :: Sorted 149 cache queues in 0.000097 seconds
+12/04/2016 10:22:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:22:22 :: Sorted 15 cache queues in 0.000061 seconds
+12/04/2016 10:22:27 :: Sorted 149 cache queues in 0.000250 seconds
+12/04/2016 10:22:37 :: Sorted 149 cache queues in 0.000226 seconds
+12/04/2016 10:22:47 :: Sorted 149 cache queues in 0.000086 seconds
+12/04/2016 10:22:57 :: Sorted 149 cache queues in 0.000212 seconds
+12/04/2016 10:23:08 :: Sorted 149 cache queues in 0.000252 seconds
+12/04/2016 10:23:17 :: Sorted 149 cache queues in 0.000260 seconds
+12/04/2016 10:23:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:23:23 :: Sorted 15 cache queues in 0.000107 seconds
+12/04/2016 10:23:27 :: Sorted 149 cache queues in 0.000085 seconds
+12/04/2016 10:23:37 :: Sorted 149 cache queues in 0.000102 seconds
+12/04/2016 10:23:47 :: Sorted 149 cache queues in 0.000202 seconds
+12/04/2016 10:23:57 :: Sorted 149 cache queues in 0.000262 seconds
+12/04/2016 10:24:07 :: Sorted 149 cache queues in 0.000209 seconds
+12/04/2016 10:24:17 :: Sorted 149 cache queues in 0.000157 seconds
+12/04/2016 10:24:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:24:23 :: Sorted 15 cache queues in 0.000039 seconds
+12/04/2016 10:24:27 :: Sorted 149 cache queues in 0.000121 seconds
+12/04/2016 10:24:37 :: Sorted 149 cache queues in 0.000113 seconds
+12/04/2016 10:24:47 :: Sorted 149 cache queues in 0.000146 seconds
+12/04/2016 10:24:57 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 10:25:07 :: Sorted 149 cache queues in 0.000151 seconds
+12/04/2016 10:25:17 :: Sorted 149 cache queues in 0.000246 seconds
+12/04/2016 10:25:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:25:22 :: Sorted 15 cache queues in 0.000036 seconds
+12/04/2016 10:25:27 :: Sorted 149 cache queues in 0.000156 seconds
+12/04/2016 10:25:37 :: Sorted 149 cache queues in 0.000249 seconds
+12/04/2016 10:25:48 :: Sorted 149 cache queues in 0.000166 seconds
+12/04/2016 10:25:58 :: Sorted 149 cache queues in 0.000226 seconds
+12/04/2016 10:26:08 :: Sorted 149 cache queues in 0.000247 seconds
+12/04/2016 10:26:17 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 10:26:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:26:23 :: Sorted 15 cache queues in 0.000080 seconds
+12/04/2016 10:26:27 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 10:26:37 :: Sorted 149 cache queues in 0.000236 seconds
+12/04/2016 10:26:47 :: Sorted 149 cache queues in 0.000274 seconds
+12/04/2016 10:26:57 :: Sorted 149 cache queues in 0.000246 seconds
+12/04/2016 10:27:07 :: Sorted 149 cache queues in 0.000144 seconds
+12/04/2016 10:27:17 :: Sorted 149 cache queues in 0.000231 seconds
+12/04/2016 10:27:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:27:23 :: Sorted 15 cache queues in 0.000045 seconds
+12/04/2016 10:27:27 :: Sorted 149 cache queues in 0.000088 seconds
+12/04/2016 10:27:37 :: Sorted 149 cache queues in 0.000123 seconds
+12/04/2016 10:27:47 :: Sorted 149 cache queues in 0.000157 seconds
+12/04/2016 10:27:57 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 10:28:07 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 10:28:17 :: Sorted 149 cache queues in 0.000097 seconds
+12/04/2016 10:28:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:28:22 :: Sorted 15 cache queues in 0.000144 seconds
+12/04/2016 10:28:27 :: Sorted 149 cache queues in 0.000066 seconds
+12/04/2016 10:28:38 :: Sorted 149 cache queues in 0.000092 seconds
+12/04/2016 10:28:48 :: Sorted 149 cache queues in 0.000115 seconds
+12/04/2016 10:28:58 :: Sorted 149 cache queues in 0.000153 seconds
+12/04/2016 10:29:07 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 10:29:17 :: Sorted 149 cache queues in 0.000230 seconds
+12/04/2016 10:29:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:29:23 :: Sorted 15 cache queues in 0.000059 seconds
+12/04/2016 10:29:27 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 10:29:37 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 10:29:47 :: Sorted 149 cache queues in 0.000101 seconds
+12/04/2016 10:29:57 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 10:30:07 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 10:30:17 :: Sorted 149 cache queues in 0.000088 seconds
+12/04/2016 10:30:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:30:23 :: Sorted 15 cache queues in 0.000049 seconds
+12/04/2016 10:30:27 :: Sorted 149 cache queues in 0.000125 seconds
+12/04/2016 10:30:37 :: Sorted 149 cache queues in 0.000116 seconds
+12/04/2016 10:30:47 :: Sorted 149 cache queues in 0.000110 seconds
+12/04/2016 10:30:57 :: Sorted 149 cache queues in 0.000149 seconds
+12/04/2016 10:31:07 :: Sorted 149 cache queues in 0.000239 seconds
+12/04/2016 10:31:17 :: Sorted 149 cache queues in 0.000159 seconds
+12/04/2016 10:31:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:31:22 :: Sorted 15 cache queues in 0.000043 seconds
+12/04/2016 10:31:27 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 10:31:37 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 10:31:48 :: Sorted 149 cache queues in 0.000101 seconds
+12/04/2016 10:31:58 :: Sorted 149 cache queues in 0.000110 seconds
+12/04/2016 10:32:08 :: Sorted 149 cache queues in 0.000212 seconds
+12/04/2016 10:32:17 :: Sorted 149 cache queues in 0.000136 seconds
+12/04/2016 10:32:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:32:23 :: Sorted 15 cache queues in 0.000042 seconds
+12/04/2016 10:32:27 :: Sorted 149 cache queues in 0.000245 seconds
+12/04/2016 10:32:37 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 10:32:47 :: Sorted 149 cache queues in 0.000114 seconds
+12/04/2016 10:32:57 :: Sorted 149 cache queues in 0.000089 seconds
+12/04/2016 10:33:07 :: Sorted 149 cache queues in 0.000171 seconds
+12/04/2016 10:33:17 :: Sorted 149 cache queues in 0.000116 seconds
+12/04/2016 10:33:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:33:23 :: Sorted 15 cache queues in 0.000043 seconds
+12/04/2016 10:33:27 :: Sorted 149 cache queues in 0.000159 seconds
+12/04/2016 10:33:37 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 10:33:47 :: Sorted 149 cache queues in 0.000095 seconds
+12/04/2016 10:33:57 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 10:34:07 :: Sorted 149 cache queues in 0.000237 seconds
+12/04/2016 10:34:17 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 10:34:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:34:22 :: Sorted 15 cache queues in 0.000044 seconds
+12/04/2016 10:34:27 :: Sorted 149 cache queues in 0.000108 seconds
+12/04/2016 10:34:37 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 10:34:47 :: Sorted 149 cache queues in 0.000157 seconds
+12/04/2016 10:34:58 :: Sorted 149 cache queues in 0.000099 seconds
+12/04/2016 10:35:08 :: Sorted 149 cache queues in 0.000135 seconds
+12/04/2016 10:35:18 :: Sorted 149 cache queues in 0.000138 seconds
+12/04/2016 10:35:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:35:23 :: Sorted 15 cache queues in 0.000060 seconds
+12/04/2016 10:35:27 :: Sorted 149 cache queues in 0.000074 seconds
+12/04/2016 10:35:37 :: Sorted 149 cache queues in 0.000148 seconds
+12/04/2016 10:35:47 :: Sorted 149 cache queues in 0.000147 seconds
+12/04/2016 10:35:57 :: Sorted 149 cache queues in 0.000094 seconds
+12/04/2016 10:36:07 :: Sorted 149 cache queues in 0.000131 seconds
+12/04/2016 10:36:17 :: Sorted 149 cache queues in 0.000100 seconds
+12/04/2016 10:36:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:36:23 :: Sorted 15 cache queues in 0.000040 seconds
+12/04/2016 10:36:27 :: Sorted 149 cache queues in 0.000115 seconds
+12/04/2016 10:36:37 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 10:36:47 :: Sorted 149 cache queues in 0.000254 seconds
+12/04/2016 10:36:57 :: Sorted 149 cache queues in 0.000153 seconds
+12/04/2016 10:37:07 :: Sorted 149 cache queues in 0.000151 seconds
+12/04/2016 10:37:17 :: Sorted 149 cache queues in 0.000140 seconds
+12/04/2016 10:37:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:37:22 :: Sorted 15 cache queues in 0.000046 seconds
+12/04/2016 10:37:27 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 10:37:37 :: Sorted 149 cache queues in 0.000139 seconds
+12/04/2016 10:37:48 :: Sorted 149 cache queues in 0.000243 seconds
+12/04/2016 10:37:58 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 10:38:08 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 10:38:18 :: Sorted 149 cache queues in 0.000250 seconds
+12/04/2016 10:38:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:38:23 :: Sorted 15 cache queues in 0.000123 seconds
+12/04/2016 10:38:28 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 10:38:37 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 10:38:47 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 10:38:57 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 10:39:07 :: Sorted 149 cache queues in 0.000269 seconds
+12/04/2016 10:39:17 :: Sorted 149 cache queues in 0.000244 seconds
+12/04/2016 10:39:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:39:23 :: Sorted 15 cache queues in 0.000106 seconds
+12/04/2016 10:39:27 :: Sorted 149 cache queues in 0.000266 seconds
+12/04/2016 10:39:37 :: Sorted 149 cache queues in 0.000108 seconds
+12/04/2016 10:39:47 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 10:39:57 :: Sorted 149 cache queues in 0.000159 seconds
+12/04/2016 10:40:07 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 10:40:17 :: Sorted 149 cache queues in 0.000250 seconds
+12/04/2016 10:40:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:40:22 :: Sorted 15 cache queues in 0.000061 seconds
+12/04/2016 10:40:27 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 10:40:37 :: Sorted 149 cache queues in 0.000238 seconds
+12/04/2016 10:40:47 :: Sorted 149 cache queues in 0.000262 seconds
+12/04/2016 10:40:58 :: Sorted 149 cache queues in 0.000100 seconds
+12/04/2016 10:41:08 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 10:41:18 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 10:41:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:41:23 :: Sorted 15 cache queues in 0.000042 seconds
+12/04/2016 10:41:28 :: Sorted 149 cache queues in 0.000228 seconds
+12/04/2016 10:41:38 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 10:41:47 :: Sorted 149 cache queues in 0.000117 seconds
+12/04/2016 10:41:57 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 10:42:07 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 10:42:17 :: Sorted 149 cache queues in 0.000158 seconds
+12/04/2016 10:42:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:42:23 :: Sorted 15 cache queues in 0.000109 seconds
+12/04/2016 10:42:27 :: Sorted 149 cache queues in 0.000268 seconds
+12/04/2016 10:42:37 :: Sorted 149 cache queues in 0.000094 seconds
+12/04/2016 10:42:47 :: Sorted 149 cache queues in 0.000117 seconds
+12/04/2016 10:42:57 :: Sorted 149 cache queues in 0.000267 seconds
+12/04/2016 10:43:07 :: Sorted 149 cache queues in 0.000251 seconds
+12/04/2016 10:43:17 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 10:43:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:43:22 :: Sorted 15 cache queues in 0.000059 seconds
+12/04/2016 10:43:28 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 10:43:38 :: Sorted 149 cache queues in 0.000164 seconds
+12/04/2016 10:43:48 :: Sorted 149 cache queues in 0.000094 seconds
+12/04/2016 10:43:58 :: Sorted 149 cache queues in 0.000246 seconds
+12/04/2016 10:44:08 :: Sorted 149 cache queues in 0.000108 seconds
+12/04/2016 10:44:17 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 10:44:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:44:23 :: Sorted 15 cache queues in 0.000111 seconds
+12/04/2016 10:44:27 :: Sorted 149 cache queues in 0.000243 seconds
+12/04/2016 10:44:37 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 10:44:47 :: Sorted 149 cache queues in 0.000159 seconds
+12/04/2016 10:44:57 :: Sorted 149 cache queues in 0.000250 seconds
+12/04/2016 10:45:07 :: Sorted 149 cache queues in 0.000225 seconds
+12/04/2016 10:45:17 :: Sorted 149 cache queues in 0.000180 seconds
+12/04/2016 10:45:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:45:22 :: Sorted 15 cache queues in 0.000046 seconds
+12/04/2016 10:45:27 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 10:45:37 :: Sorted 149 cache queues in 0.000134 seconds
+12/04/2016 10:45:47 :: Sorted 149 cache queues in 0.000125 seconds
+12/04/2016 10:45:57 :: Sorted 149 cache queues in 0.000156 seconds
+12/04/2016 10:46:07 :: Sorted 149 cache queues in 0.000258 seconds
+12/04/2016 10:46:18 :: Sorted 149 cache queues in 0.000113 seconds
+12/04/2016 10:46:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:46:23 :: Sorted 15 cache queues in 0.000044 seconds
+12/04/2016 10:46:28 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 10:46:38 :: Sorted 149 cache queues in 0.000093 seconds
+12/04/2016 10:46:48 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 10:46:58 :: Sorted 149 cache queues in 0.000242 seconds
+12/04/2016 10:47:08 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 10:47:17 :: Sorted 149 cache queues in 0.000080 seconds
+12/04/2016 10:47:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:47:23 :: Sorted 15 cache queues in 0.000046 seconds
+12/04/2016 10:47:27 :: Sorted 149 cache queues in 0.000157 seconds
+12/04/2016 10:47:37 :: Sorted 149 cache queues in 0.000168 seconds
+12/04/2016 10:47:47 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 10:47:57 :: Sorted 149 cache queues in 0.000256 seconds
+12/04/2016 10:48:07 :: Sorted 149 cache queues in 0.000255 seconds
+12/04/2016 10:48:17 :: Sorted 149 cache queues in 0.000165 seconds
+12/04/2016 10:48:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:48:22 :: Sorted 15 cache queues in 0.000060 seconds
+12/04/2016 10:48:27 :: Sorted 149 cache queues in 0.000112 seconds
+12/04/2016 10:48:37 :: Sorted 149 cache queues in 0.000251 seconds
+12/04/2016 10:48:47 :: Sorted 149 cache queues in 0.000250 seconds
+12/04/2016 10:48:57 :: Sorted 149 cache queues in 0.000117 seconds
+12/04/2016 10:49:07 :: Sorted 149 cache queues in 0.000152 seconds
+12/04/2016 10:49:18 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 10:49:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:49:23 :: Sorted 15 cache queues in 0.000035 seconds
+12/04/2016 10:49:28 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 10:49:38 :: Sorted 149 cache queues in 0.000224 seconds
+12/04/2016 10:49:48 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 10:49:58 :: Sorted 149 cache queues in 0.000089 seconds
+12/04/2016 10:50:08 :: Sorted 149 cache queues in 0.000174 seconds
+12/04/2016 10:50:17 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 10:50:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:50:23 :: Sorted 15 cache queues in 0.000119 seconds
+12/04/2016 10:50:27 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 10:50:37 :: Sorted 149 cache queues in 0.000240 seconds
+12/04/2016 10:50:47 :: Sorted 149 cache queues in 0.000244 seconds
+12/04/2016 10:50:57 :: Sorted 149 cache queues in 0.000233 seconds
+12/04/2016 10:51:07 :: Sorted 149 cache queues in 0.000155 seconds
+12/04/2016 10:51:17 :: Sorted 149 cache queues in 0.000164 seconds
+12/04/2016 10:51:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:51:22 :: Sorted 15 cache queues in 0.000056 seconds
+12/04/2016 10:51:27 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 10:51:37 :: Sorted 149 cache queues in 0.000114 seconds
+12/04/2016 10:51:47 :: Sorted 149 cache queues in 0.000236 seconds
+12/04/2016 10:51:57 :: Sorted 149 cache queues in 0.000166 seconds
+12/04/2016 10:52:08 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 10:52:18 :: Sorted 149 cache queues in 0.000227 seconds
+12/04/2016 10:52:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:52:23 :: Sorted 15 cache queues in 0.000045 seconds
+12/04/2016 10:52:28 :: Sorted 149 cache queues in 0.000116 seconds
+12/04/2016 10:52:38 :: Sorted 149 cache queues in 0.000156 seconds
+12/04/2016 10:52:48 :: Sorted 149 cache queues in 0.000157 seconds
+12/04/2016 10:52:58 :: Sorted 149 cache queues in 0.000110 seconds
+12/04/2016 10:53:08 :: Sorted 149 cache queues in 0.000247 seconds
+12/04/2016 10:53:17 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 10:53:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:53:23 :: Sorted 15 cache queues in 0.000108 seconds
+12/04/2016 10:53:27 :: Sorted 149 cache queues in 0.000108 seconds
+12/04/2016 10:53:37 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 10:53:47 :: Sorted 149 cache queues in 0.000244 seconds
+12/04/2016 10:53:57 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 10:54:07 :: Sorted 149 cache queues in 0.000170 seconds
+12/04/2016 10:54:17 :: Sorted 149 cache queues in 0.000160 seconds
+12/04/2016 10:54:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:54:22 :: Sorted 15 cache queues in 0.000063 seconds
+12/04/2016 10:54:27 :: Sorted 149 cache queues in 0.000241 seconds
+12/04/2016 10:54:37 :: Sorted 149 cache queues in 0.000226 seconds
+12/04/2016 10:54:47 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 10:54:58 :: Sorted 149 cache queues in 0.000248 seconds
+12/04/2016 10:55:08 :: Sorted 149 cache queues in 0.000151 seconds
+12/04/2016 10:55:18 :: Sorted 149 cache queues in 0.000263 seconds
+12/04/2016 10:55:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:55:23 :: Sorted 15 cache queues in 0.000111 seconds
+12/04/2016 10:55:28 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 10:55:38 :: Sorted 149 cache queues in 0.000280 seconds
+12/04/2016 10:55:48 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 10:55:58 :: Sorted 149 cache queues in 0.000266 seconds
+12/04/2016 10:56:08 :: Sorted 149 cache queues in 0.000114 seconds
+12/04/2016 10:56:17 :: Sorted 149 cache queues in 0.000260 seconds
+12/04/2016 10:56:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:56:23 :: Sorted 15 cache queues in 0.000047 seconds
+12/04/2016 10:56:27 :: Sorted 149 cache queues in 0.000160 seconds
+12/04/2016 10:56:37 :: Sorted 149 cache queues in 0.000234 seconds
+12/04/2016 10:56:47 :: Sorted 149 cache queues in 0.000158 seconds
+12/04/2016 10:56:57 :: Sorted 149 cache queues in 0.000148 seconds
+12/04/2016 10:57:07 :: Sorted 149 cache queues in 0.000113 seconds
+12/04/2016 10:57:17 :: Sorted 149 cache queues in 0.000246 seconds
+12/04/2016 10:57:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:57:22 :: Sorted 15 cache queues in 0.000047 seconds
+12/04/2016 10:57:27 :: Sorted 149 cache queues in 0.000083 seconds
+12/04/2016 10:57:37 :: Sorted 149 cache queues in 0.000110 seconds
+12/04/2016 10:57:48 :: Sorted 149 cache queues in 0.000113 seconds
+12/04/2016 10:57:58 :: Sorted 149 cache queues in 0.000145 seconds
+12/04/2016 10:58:08 :: Sorted 149 cache queues in 0.000261 seconds
+12/04/2016 10:58:18 :: Sorted 149 cache queues in 0.000247 seconds
+12/04/2016 10:58:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:58:23 :: Sorted 15 cache queues in 0.000057 seconds
+12/04/2016 10:58:28 :: Sorted 149 cache queues in 0.000249 seconds
+12/04/2016 10:58:38 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 10:58:48 :: Sorted 149 cache queues in 0.000092 seconds
+12/04/2016 10:58:58 :: Sorted 149 cache queues in 0.000118 seconds
+12/04/2016 10:59:08 :: Sorted 149 cache queues in 0.000113 seconds
+12/04/2016 10:59:17 :: Sorted 149 cache queues in 0.000108 seconds
+12/04/2016 10:59:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 10:59:23 :: Sorted 15 cache queues in 0.000037 seconds
+12/04/2016 10:59:27 :: Sorted 149 cache queues in 0.000110 seconds
+12/04/2016 10:59:37 :: Sorted 149 cache queues in 0.000249 seconds
+12/04/2016 10:59:47 :: Sorted 149 cache queues in 0.000110 seconds
+12/04/2016 10:59:57 :: Sorted 149 cache queues in 0.000090 seconds
+12/04/2016 11:00:07 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 11:00:17 :: Sorted 149 cache queues in 0.000151 seconds
+12/04/2016 11:00:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:00:22 :: Sorted 15 cache queues in 0.000078 seconds
+12/04/2016 11:00:27 :: Sorted 149 cache queues in 0.000285 seconds
+12/04/2016 11:00:37 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 11:00:48 :: Sorted 149 cache queues in 0.000153 seconds
+12/04/2016 11:00:58 :: Sorted 149 cache queues in 0.000231 seconds
+12/04/2016 11:01:08 :: Sorted 149 cache queues in 0.000151 seconds
+12/04/2016 11:01:18 :: Sorted 149 cache queues in 0.000152 seconds
+12/04/2016 11:01:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:01:23 :: Sorted 15 cache queues in 0.000036 seconds
+12/04/2016 11:01:28 :: Sorted 149 cache queues in 0.000110 seconds
+12/04/2016 11:01:38 :: Sorted 149 cache queues in 0.000258 seconds
+12/04/2016 11:01:48 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 11:01:58 :: Sorted 149 cache queues in 0.000233 seconds
+12/04/2016 11:02:07 :: Sorted 149 cache queues in 0.000251 seconds
+12/04/2016 11:02:17 :: Sorted 149 cache queues in 0.000087 seconds
+12/04/2016 11:02:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:02:23 :: Sorted 15 cache queues in 0.000040 seconds
+12/04/2016 11:02:27 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 11:02:37 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 11:02:47 :: Sorted 149 cache queues in 0.000265 seconds
+12/04/2016 11:02:57 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 11:03:07 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 11:03:17 :: Sorted 149 cache queues in 0.000249 seconds
+12/04/2016 11:03:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:03:22 :: Sorted 15 cache queues in 0.000061 seconds
+12/04/2016 11:03:27 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 11:03:38 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 11:03:48 :: Sorted 149 cache queues in 0.000135 seconds
+12/04/2016 11:03:58 :: Sorted 149 cache queues in 0.000096 seconds
+12/04/2016 11:04:08 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 11:04:18 :: Sorted 149 cache queues in 0.000095 seconds
+12/04/2016 11:04:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:04:23 :: Sorted 15 cache queues in 0.000094 seconds
+12/04/2016 11:04:28 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 11:04:38 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 11:04:48 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 11:04:58 :: Sorted 149 cache queues in 0.000245 seconds
+12/04/2016 11:05:07 :: Sorted 149 cache queues in 0.000186 seconds
+12/04/2016 11:05:17 :: Sorted 149 cache queues in 0.000168 seconds
+12/04/2016 11:05:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:05:23 :: Sorted 15 cache queues in 0.000063 seconds
+12/04/2016 11:05:27 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 11:05:37 :: Sorted 149 cache queues in 0.000148 seconds
+12/04/2016 11:05:47 :: Sorted 149 cache queues in 0.000250 seconds
+12/04/2016 11:05:57 :: Sorted 149 cache queues in 0.000251 seconds
+12/04/2016 11:06:07 :: Sorted 149 cache queues in 0.000148 seconds
+12/04/2016 11:06:17 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 11:06:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:06:22 :: Sorted 15 cache queues in 0.000064 seconds
+12/04/2016 11:06:28 :: Sorted 149 cache queues in 0.000110 seconds
+12/04/2016 11:06:38 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 11:06:48 :: Sorted 149 cache queues in 0.000240 seconds
+12/04/2016 11:06:58 :: Sorted 149 cache queues in 0.000152 seconds
+12/04/2016 11:07:08 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 11:07:18 :: Sorted 149 cache queues in 0.000246 seconds
+12/04/2016 11:07:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:07:23 :: Sorted 15 cache queues in 0.000060 seconds
+12/04/2016 11:07:28 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 11:07:38 :: Sorted 149 cache queues in 0.000158 seconds
+12/04/2016 11:07:48 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 11:07:58 :: Sorted 149 cache queues in 0.000152 seconds
+12/04/2016 11:08:07 :: Sorted 149 cache queues in 0.000165 seconds
+12/04/2016 11:08:17 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 11:08:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:08:23 :: Sorted 15 cache queues in 0.000109 seconds
+12/04/2016 11:08:27 :: Sorted 149 cache queues in 0.000084 seconds
+12/04/2016 11:08:37 :: Sorted 149 cache queues in 0.000264 seconds
+12/04/2016 11:08:47 :: Sorted 149 cache queues in 0.000252 seconds
+12/04/2016 11:08:57 :: Sorted 149 cache queues in 0.000108 seconds
+12/04/2016 11:09:07 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 11:09:17 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 11:09:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:09:23 :: Sorted 15 cache queues in 0.000040 seconds
+12/04/2016 11:09:28 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 11:09:38 :: Sorted 149 cache queues in 0.000251 seconds
+12/04/2016 11:09:48 :: Sorted 149 cache queues in 0.000244 seconds
+12/04/2016 11:09:58 :: Sorted 149 cache queues in 0.000197 seconds
+12/04/2016 11:10:08 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 11:10:18 :: Sorted 149 cache queues in 0.000103 seconds
+12/04/2016 11:10:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:10:23 :: Sorted 15 cache queues in 0.000064 seconds
+12/04/2016 11:10:28 :: Sorted 149 cache queues in 0.000152 seconds
+12/04/2016 11:10:38 :: Sorted 149 cache queues in 0.000115 seconds
+12/04/2016 11:10:48 :: Sorted 149 cache queues in 0.000221 seconds
+12/04/2016 11:10:58 :: Sorted 149 cache queues in 0.000108 seconds
+12/04/2016 11:11:07 :: Sorted 149 cache queues in 0.000242 seconds
+12/04/2016 11:11:17 :: Sorted 149 cache queues in 0.000224 seconds
+12/04/2016 11:11:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:11:22 :: Sorted 15 cache queues in 0.000036 seconds
+12/04/2016 11:11:27 :: Sorted 149 cache queues in 0.000199 seconds
+12/04/2016 11:11:37 :: Sorted 149 cache queues in 0.000147 seconds
+12/04/2016 11:11:47 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 11:11:57 :: Sorted 149 cache queues in 0.000198 seconds
+12/04/2016 11:12:07 :: Sorted 149 cache queues in 0.000241 seconds
+12/04/2016 11:12:18 :: Sorted 149 cache queues in 0.000191 seconds
+12/04/2016 11:12:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:12:23 :: Sorted 15 cache queues in 0.000048 seconds
+12/04/2016 11:12:28 :: Sorted 149 cache queues in 0.000177 seconds
+12/04/2016 11:12:38 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 11:12:48 :: Sorted 149 cache queues in 0.000147 seconds
+12/04/2016 11:12:58 :: Sorted 149 cache queues in 0.000087 seconds
+12/04/2016 11:13:08 :: Sorted 149 cache queues in 0.000169 seconds
+12/04/2016 11:13:18 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 11:13:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:13:23 :: Sorted 15 cache queues in 0.000108 seconds
+12/04/2016 11:13:28 :: Sorted 149 cache queues in 0.000250 seconds
+12/04/2016 11:13:38 :: Sorted 149 cache queues in 0.000170 seconds
+12/04/2016 11:13:48 :: Sorted 149 cache queues in 0.000112 seconds
+12/04/2016 11:13:57 :: Sorted 149 cache queues in 0.000247 seconds
+12/04/2016 11:14:07 :: Sorted 149 cache queues in 0.000159 seconds
+12/04/2016 11:14:17 :: Sorted 149 cache queues in 0.000101 seconds
+12/04/2016 11:14:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:14:22 :: Sorted 15 cache queues in 0.000060 seconds
+12/04/2016 11:14:27 :: Sorted 149 cache queues in 0.000248 seconds
+12/04/2016 11:14:37 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 11:14:47 :: Sorted 149 cache queues in 0.000113 seconds
+12/04/2016 11:14:57 :: Sorted 149 cache queues in 0.000204 seconds
+12/04/2016 11:15:08 :: Sorted 149 cache queues in 0.000170 seconds
+12/04/2016 11:15:18 :: Sorted 149 cache queues in 0.000248 seconds
+12/04/2016 11:15:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:15:23 :: Sorted 15 cache queues in 0.000061 seconds
+12/04/2016 11:15:28 :: Sorted 149 cache queues in 0.000120 seconds
+12/04/2016 11:15:38 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 11:15:48 :: Sorted 149 cache queues in 0.000226 seconds
+12/04/2016 11:15:58 :: Sorted 149 cache queues in 0.000166 seconds
+12/04/2016 11:16:08 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 11:16:18 :: Sorted 149 cache queues in 0.000252 seconds
+12/04/2016 11:16:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:16:23 :: Sorted 15 cache queues in 0.000061 seconds
+12/04/2016 11:16:28 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 11:16:38 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 11:16:48 :: Sorted 149 cache queues in 0.000196 seconds
+12/04/2016 11:16:57 :: Sorted 149 cache queues in 0.000109 seconds
+12/04/2016 11:17:07 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 11:17:17 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 11:17:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:17:22 :: Sorted 15 cache queues in 0.000047 seconds
+12/04/2016 11:17:27 :: Sorted 149 cache queues in 0.000091 seconds
+12/04/2016 11:17:37 :: Sorted 149 cache queues in 0.000098 seconds
+12/04/2016 11:17:47 :: Sorted 149 cache queues in 0.000255 seconds
+12/04/2016 11:17:58 :: Sorted 149 cache queues in 0.000152 seconds
+12/04/2016 11:18:08 :: Sorted 149 cache queues in 0.000164 seconds
+12/04/2016 11:18:18 :: Sorted 149 cache queues in 0.000116 seconds
+12/04/2016 11:18:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:18:23 :: Sorted 15 cache queues in 0.000041 seconds
+12/04/2016 11:18:28 :: Sorted 149 cache queues in 0.000256 seconds
+12/04/2016 11:18:38 :: Sorted 149 cache queues in 0.000147 seconds
+12/04/2016 11:18:48 :: Sorted 149 cache queues in 0.000110 seconds
+12/04/2016 11:18:58 :: Sorted 149 cache queues in 0.000086 seconds
+12/04/2016 11:19:08 :: Sorted 149 cache queues in 0.000159 seconds
+12/04/2016 11:19:18 :: Sorted 149 cache queues in 0.000166 seconds
+12/04/2016 11:19:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:19:23 :: Sorted 15 cache queues in 0.000047 seconds
+12/04/2016 11:19:28 :: Sorted 149 cache queues in 0.000134 seconds
+12/04/2016 11:19:38 :: Sorted 149 cache queues in 0.000153 seconds
+12/04/2016 11:19:48 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 11:19:57 :: Sorted 149 cache queues in 0.000241 seconds
+12/04/2016 11:20:07 :: Sorted 149 cache queues in 0.000238 seconds
+12/04/2016 11:20:17 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 11:20:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:20:22 :: Sorted 15 cache queues in 0.000038 seconds
+12/04/2016 11:20:27 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 11:20:37 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 11:20:48 :: Sorted 149 cache queues in 0.000159 seconds
+12/04/2016 11:20:58 :: Sorted 149 cache queues in 0.000199 seconds
+12/04/2016 11:21:08 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 11:21:18 :: Sorted 149 cache queues in 0.000215 seconds
+12/04/2016 11:21:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:21:23 :: Sorted 15 cache queues in 0.000093 seconds
+12/04/2016 11:21:28 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 11:21:38 :: Sorted 149 cache queues in 0.000148 seconds
+12/04/2016 11:21:48 :: Sorted 149 cache queues in 0.000107 seconds
+12/04/2016 11:21:58 :: Sorted 149 cache queues in 0.000104 seconds
+12/04/2016 11:22:08 :: Sorted 149 cache queues in 0.000152 seconds
+12/04/2016 11:22:18 :: Sorted 149 cache queues in 0.000111 seconds
+12/04/2016 11:22:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:22:23 :: Sorted 15 cache queues in 0.000125 seconds
+12/04/2016 11:22:28 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 11:22:38 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 11:22:48 :: Sorted 149 cache queues in 0.000265 seconds
+12/04/2016 11:22:57 :: Sorted 149 cache queues in 0.000084 seconds
+12/04/2016 11:23:07 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 11:23:17 :: Sorted 149 cache queues in 0.000108 seconds
+12/04/2016 11:23:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:23:22 :: Sorted 15 cache queues in 0.000036 seconds
+12/04/2016 11:23:27 :: Sorted 149 cache queues in 0.000099 seconds
+12/04/2016 11:23:37 :: Sorted 149 cache queues in 0.000112 seconds
+12/04/2016 11:23:48 :: Sorted 149 cache queues in 0.000196 seconds
+12/04/2016 11:23:58 :: Sorted 149 cache queues in 0.000138 seconds
+12/04/2016 11:24:08 :: Sorted 149 cache queues in 0.000114 seconds
+12/04/2016 11:24:18 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 11:24:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:24:23 :: Sorted 15 cache queues in 0.000044 seconds
+12/04/2016 11:24:28 :: Sorted 149 cache queues in 0.000154 seconds
+12/04/2016 11:24:38 :: Sorted 149 cache queues in 0.000153 seconds
+12/04/2016 11:24:48 :: Sorted 149 cache queues in 0.000158 seconds
+12/04/2016 11:24:58 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 11:25:08 :: Sorted 149 cache queues in 0.000110 seconds
+12/04/2016 11:25:18 :: Sorted 149 cache queues in 0.000161 seconds
+12/04/2016 11:25:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:25:23 :: Sorted 15 cache queues in 0.000071 seconds
+12/04/2016 11:25:28 :: Sorted 149 cache queues in 0.000248 seconds
+12/04/2016 11:25:38 :: Sorted 149 cache queues in 0.000162 seconds
+12/04/2016 11:25:48 :: Sorted 149 cache queues in 0.000149 seconds
+12/04/2016 11:25:57 :: Sorted 149 cache queues in 0.000150 seconds
+12/04/2016 11:26:07 :: Sorted 149 cache queues in 0.000167 seconds
+12/04/2016 11:26:17 :: Sorted 149 cache queues in 0.000250 seconds
+12/04/2016 11:26:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:26:22 :: Sorted 15 cache queues in 0.000062 seconds
+12/04/2016 11:26:27 :: Sorted 149 cache queues in 0.000165 seconds
+12/04/2016 11:26:37 :: Sorted 149 cache queues in 0.000251 seconds
+12/04/2016 11:26:48 :: Sorted 149 cache queues in 0.000153 seconds
+12/04/2016 11:26:58 :: Sorted 149 cache queues in 0.000236 seconds
+12/04/2016 11:27:08 :: Sorted 149 cache queues in 0.000206 seconds
+12/04/2016 11:27:18 :: Sorted 149 cache queues in 0.000246 seconds
+12/04/2016 11:27:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:27:23 :: Sorted 15 cache queues in 0.000111 seconds
+12/04/2016 11:27:28 :: Sorted 149 cache queues in 0.000105 seconds
+12/04/2016 11:27:38 :: Sorted 149 cache queues in 0.000167 seconds
+12/04/2016 11:27:48 :: Sorted 149 cache queues in 0.000093 seconds
+12/04/2016 11:27:58 :: Sorted 149 cache queues in 0.000148 seconds
+12/04/2016 11:28:08 :: Sorted 149 cache queues in 0.000094 seconds
+12/04/2016 11:28:18 :: Sorted 149 cache queues in 0.000163 seconds
+12/04/2016 11:28:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:28:23 :: Sorted 15 cache queues in 0.000045 seconds
+12/04/2016 11:28:28 :: Sorted 149 cache queues in 0.000116 seconds
+12/04/2016 11:28:38 :: Sorted 149 cache queues in 0.000253 seconds
+12/04/2016 11:28:48 :: Sorted 149 cache queues in 0.000166 seconds
+12/04/2016 11:28:57 :: Sorted 149 cache queues in 0.000106 seconds
+12/04/2016 11:29:07 :: Sorted 149 cache queues in 0.000249 seconds
+12/04/2016 11:29:17 :: Sorted 149 cache queues in 0.000250 seconds
+12/04/2016 11:29:22 :: /opt/graphite/conf/storage-aggregation.conf not found, ignoring.
+12/04/2016 11:29:22 :: Sorted 15 cache queues in 0.000047 seconds
+12/04/2016 11:29:27 :: Sorted 149 cache queues in 0.000109 seconds
